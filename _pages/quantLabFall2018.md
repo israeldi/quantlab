@@ -65,5 +65,6 @@ sidebar:
 2. OOP with Python using [Complex numbers as an example](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem).
 
 3. Take a look at the [HackerRank Interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit), and in particular the [Hash Tables: Ransom note exercise](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps). Watch the Hash Tables video (on the right side of page).
+{% include video id="shs0KM3wKv8" provider="youtube" %}
 
 4. Read these articles to build knowledge of the market—I will be asking for summaries. [Emerging markets](https://www.bloomberg.com/opinion/articles/2018-09-03/we-may-be-facing-a-textbook-emerging-market-crisis), [Contagion](https://www.bloomberg.com/opinion/articles/2018-09-05/u-s-equity-bulls-just-say-no-to-contagion?srnd=premium), [Interest rates](https://www.marketwatch.com/story/treasury-yields-steady-ahead-of-pce-inflation-data-2018-08-30), and [cryptocurrencies](https://www.bloomberg.com/news/articles/2018-09-05/bitcoin-drops-3-in-10-minutes-as-cryptocurrencies-join-selloff)
