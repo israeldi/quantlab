@@ -11,20 +11,20 @@ excerpt: "Workshop Home Page"
 intro: 
   - excerpt: 'Quant program links `type="center"`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/weiser.jpg
     alt: "placeholder image 1"
     title: "Quant Lab Agenda"
     excerpt: "Winter 2019 Friday-Workshops."
     url: "https://israeldi.github.io/friday-workshop/quantLabWinter2019/"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/job_search.jpg
     alt: "placeholder image 2"
     title: "Jobs and Internships"
-    excerpt: "Resources for researching jobs and internships"
+    excerpt: "Resources for researching jobs and internships (From Pete's Page)."
     url: "https://pbenson.github.io"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
+  - image_path: /assets/images/bootcamp.jpg
+    title: "Summer Bootcamp"
+    excerpt: "2018 Summer Bootcamp (From Pete's Page)."
+    url: "https://pbenson.github.io/bootcamp/"
 ---
 
 {% include feature_row id="intro" type="center" %}
