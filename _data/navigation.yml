@@ -37,3 +37,9 @@ docs:
     children:
       - title: "Fermi Questions"
         url: /fermi/
+
+  - title: Projects
+    children:
+      - title: "Projects"
+        url: /projects/
+
