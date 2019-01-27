@@ -1,28 +1,24 @@
 ---
 layout: single
 title: "Michigan Quant Lab"
-permalink: /quantLab2019/
+permalink: /quantLab2018/
 comments: true
 author_profile: false
 toc: true
 sidebar:
     nav: "docs"
 ---
-For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
+### Fall 2018 Meeting agenda
 
-### Meeting agenda
+### 2018-11-16 (last meeting of 2018)
 
-### 2019-01-25
+1. Fermi Problem: A classic...you travel back in time to 1 bya (billion years ago)n with a one liter bottle. You fill the bottle with water from the ocean, and dump it out. Then you return to the present day, and buy a liter of water. How many molecules in your purchased liter are from the liter you poured into the ocean?
 
-1. Warmup problem(s):
-- You can roll a die up to 3 times. After each roll, you can either keep the number facing up or forgo the number and keep rolling. At the end of the 3rd roll, you will have to take the number facing up. What is it worth to play the game?
-
-2. Python problem: There are 4 red and 4 black marbles in a bag. Draw one at time. If you have drawn more black than red, winnings are the number of black marbles in excess of red. Otherwise, you get nothing. Quit at any time.
-    - Solve by hand. What is your optimal strategy?
-    - Implement in Python. Verify if it matches your calculation by hand. Download the jupyter notebook [here](https://github.com/dlu-umich/dlu-umich.github.io/blob/master/friday-workshop/RedBlackMarble-DP.ipynb).
-    - Solve with 20 red and 20 black marbles. Does your program work? If not, what can you do about it? What is the computational complexity of your solution?
-    - What if there are 1000 red and 1000 black marbles?
-    - What if there are 1 million red and 1 million black marbles?
+2. Brainteaser: you must select a random byte from a data stream of unknown size, but too large to store. How do you do it?
+Probability problem: You flip a coin 101 times, and a friend then flips the coin 100 times. What is the probability you flipped more heads?
+This week in the markets. Watch the yield curve.
+Yield curve bootstrapping recap. For more information, read Hagan and West.
+Recreational math and computing with numpy. Watch graphing a times table on a circle.
 
 
 ### 2019-01-11
