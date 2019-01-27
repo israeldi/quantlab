@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Michigan Quant Lab"
-permalink: /docs/quantLab2019/
+permalink: /quantLab2019/
 comments: true
 author_profile: false
 toc: true
