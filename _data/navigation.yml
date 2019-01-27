@@ -24,14 +24,14 @@ docs:
       - title: "Fall Semester"
         url: /quantLabFall2018/
       - title: "Winter Semester"
-        url: /quantLabFallWinter2018/
+        url: /quantLabWinter2018/
 
   - title: '2017'
     children:
       - title: "Fall Semester"
         url: /quantLabFall2017/
       - title: "Winter Semester"
-        url: /quantLabFallWinter2017/
+        url: /quantLabWinter2017/
 
   - title: Practice Problems
     children:
