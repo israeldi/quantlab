@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Fall 2018"
-permalink: /quantLabFall2018/
+title: "Winter 2017"
+permalink: /quantLabWinter2017/
 comments: true
 author_profile: false
 toc: true
