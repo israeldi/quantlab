@@ -8,9 +8,6 @@ toc: true
 sidebar:
     nav: "docs"
 ---
-
-## Michigan Quant Lab
-
 For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
 
 ### Meeting agenda
@@ -33,7 +30,7 @@ For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
 - Solve a simple pair of equations efficiently...
 - Can you cover a 10x10 board with 1x4 tiles?
 
-2. [MSCI Internship](jobs/MSCIQuantitativeModelValidationSummerInternship.pdf) discussion with Patrick (Di) Lu
+2. [MSCI Internship](/jobs/MSCIQuantitativeModelValidationSummerInternship.pdf) discussion with Patrick (Di) Lu
 
 3. Good luck to the Bloomberg Trading Challenge teams:
 - Prerna, Xinye, Yutian, Hui
