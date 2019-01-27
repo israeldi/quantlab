@@ -30,16 +30,16 @@ For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
 - Solve a simple pair of equations efficiently...
 - Can you cover a 10x10 board with 1x4 tiles?
 
-2. [MSCI Internship](/jobs/MSCIQuantitativeModelValidationSummerInternship.pdf) discussion with Patrick (Di) Lu
+2. [MSCI Internship](../jobs/MSCIQuantitativeModelValidationSummerInternship.pdf) discussion with Patrick (Di) Lu
 
 3. Good luck to the [Bloomberg Trading Challenge](https://www.bloomberg.com/careers/blog/one-idea-engaged-250-student-teams-first-ever-bloomberg-trading-challenge/) teams:
 - Prerna, Xinye, Yutian, Hui
 - Rick, Israel, Jiayi, Jack, Yifei
 
 4. IAQF competition (team entry due Friday, Jan 11th, 2019). Problem will be announced Jan 14th, 2019.
-- [Competition description](competitions/iaqf/IAQFAnnualAcademicCompetition.pdf)
-- 2016 Problem: [Impact of changing oil prices](competitions/iaqf/IAQFCompetitionProblem2016.pdf)
-- 2017 Problem: [Impact of rising interest rates](competitions/iaqf/IAQFCompetitionProblem2017.pdf)
+- [Competition description](../competitions/iaqf/IAQFAnnualAcademicCompetition.pdf)
+- 2016 Problem: [Impact of changing oil prices](../competitions/iaqf/IAQFCompetitionProblem2016.pdf)
+- 2017 Problem: [Impact of rising interest rates](../competitions/iaqf/IAQFCompetitionProblem2017.pdf)
 - 2018 Problem: [Momentum vs option strategies](competitions/iaqf/IAQFCompetitionProblem2018.pdf)
 - 2019 Problem: What do you think it could be? Think-pair-share.
 - [Winning papers](https://www.iaqf.org/news/news_detail/49)
