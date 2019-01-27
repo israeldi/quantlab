@@ -4,10 +4,10 @@ main:
     url: https://lsa.umich.edu/math/graduates/quantitative-finance.html
   - title: "Github"
     icon: "fab fa-fw fa-github"
-    url: https://github.com/israeldi
+    url: https://github.com/israeldi/friday-workshop
   - title: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
-    url: https://www.linkedin.com/in/israel-diego/
+    url: https://www.linkedin.com/in/umichquant/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
