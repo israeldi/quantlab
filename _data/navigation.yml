@@ -16,13 +16,15 @@ main:
 docs:
   - title: '2019'
     children:
-      - title: "Quant Lab"
-        url: /quantLab2019/
+      - title: "Winter Semester"
+        url: /quantLabWinter2019/
 
   - title: '2018'
     children:
-      - title: "Quant Lab"
-        url: /quantLab2018/
+      - title: "Fall Semester"
+        url: /quantLabFall2018/
+      - title: "Winter Semester"
+        url: /quantLabFallWinter2018/
 
   - title: '2017'
     children:
