@@ -14,46 +14,22 @@ main:
   #  url: /sitemap/
 
 docs:
-  - title: Getting Started
+  - title: '2019'
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Quant Lab"
+        url: /quantLab2019/
 
-  - title: Customization
+  - title: '2018'
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Quant Lab"
+        url: /quantLab2018/
 
-  - title: Content
+  - title: '2017'
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Quant Lab"
+        url: /quantLab2017/
 
-  - title: Extras
+  - title: Practice Problems
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Fermi Questions"
+        url: /fermi/

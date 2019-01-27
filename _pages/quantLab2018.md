@@ -15,10 +15,12 @@ sidebar:
 1. Fermi Problem: A classic...you travel back in time to 1 bya (billion years ago)n with a one liter bottle. You fill the bottle with water from the ocean, and dump it out. Then you return to the present day, and buy a liter of water. How many molecules in your purchased liter are from the liter you poured into the ocean?
 
 2. Brainteaser: you must select a random byte from a data stream of unknown size, but too large to store. How do you do it?
-Probability problem: You flip a coin 101 times, and a friend then flips the coin 100 times. What is the probability you flipped more heads?
-This week in the markets. Watch the yield curve.
-Yield curve bootstrapping recap. For more information, read Hagan and West.
-Recreational math and computing with numpy. Watch graphing a times table on a circle.
+
+3. Probability problem: You flip a coin 101 times, and a friend then flips the coin 100 times. What is the probability you flipped more heads?
+
+4. This week [in the markets](https://www.bloomberg.com). Watch [the yield curve](https://www.bloomberg.com/news/articles/2018-11-16/don-t-take-your-eyes-off-the-yield-curve).
+5. Yield curve bootstrapping recap. For more information, read [Hagan and West](../docs/HaganWest.pdf).
+6. Recreational math and computing with numpy. Watch [graphing a times table on a circle](https://www.youtube.com/watch?v=qhbuKbxJsk8).
 
 
 ### 2019-01-11
