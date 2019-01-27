@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "LSA Math"
+    url: https://lsa.umich.edu/math/graduates/quantitative-finance.html
   - title: "Github"
     icon: "fab fa-fw fa-github"
     url: https://github.com/israeldi
