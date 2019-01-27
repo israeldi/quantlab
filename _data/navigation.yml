@@ -45,3 +45,8 @@ docs:
       - title: "Projects"
         url: /projects/
 
+  - title: Github
+    children:
+      - title: "Github"
+        url: /github/
+
