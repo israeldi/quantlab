@@ -28,8 +28,10 @@ docs:
 
   - title: '2017'
     children:
-      - title: "Quant Lab"
-        url: /quantLab2017/
+      - title: "Fall Semester"
+        url: /quantLabFall2017/
+      - title: "Winter Semester"
+        url: /quantLabFallWinter2017/
 
   - title: Practice Problems
     children:
