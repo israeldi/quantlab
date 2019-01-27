@@ -20,13 +20,11 @@ feature_row:
     title: "Quant Lab Agenda"
     excerpt: "Winter 2019 Friday-Workshops."
     url: "https://israeldi.github.io/friday-workshop/quantLabWinter2019/"
-    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Jobs and Internships"
     excerpt: "Resources for researching jobs and internships"
     url: "https://pbenson.github.io"
-    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
