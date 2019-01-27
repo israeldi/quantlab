@@ -32,16 +32,16 @@ For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
 
 2. [MSCI Internship](/jobs/MSCIQuantitativeModelValidationSummerInternship.pdf) discussion with Patrick (Di) Lu
 
-3. Good luck to the Bloomberg Trading Challenge teams:
+3. Good luck to the [Bloomberg Trading Challenge](https://www.bloomberg.com/careers/blog/one-idea-engaged-250-student-teams-first-ever-bloomberg-trading-challenge/) teams:
 - Prerna, Xinye, Yutian, Hui
 - Rick, Israel, Jiayi, Jack, Yifei
 
 4. IAQF competition (team entry due Friday, Jan 11th, 2019). Problem will be announced Jan 14th, 2019.
-- Competition description
-- 2016 Problem: Impact of changing oil prices
-- 2017 Problem: Impact of rising interest rates
-- 2018 Problem: Momentum vs option strategies
+- [Competition description](competitions/iaqf/IAQFAnnualAcademicCompetition.pdf)
+- 2016 Problem: [Impact of changing oil prices](competitions/iaqf/IAQFCompetitionProblem2016.pdf)
+- 2017 Problem: [Impact of rising interest rates](competitions/iaqf/IAQFCompetitionProblem2017.pdf)
+- 2018 Problem: [Momentum vs option strategies](competitions/iaqf/IAQFCompetitionProblem2018.pdf)
 - 2019 Problem: What do you think it could be? Think-pair-share.
-- Winning papers
-5. There is a Quantopian contest starting Jan 31st.
+- [Winning papers](https://www.iaqf.org/news/news_detail/49)
+5. There is a [Quantopian contest](https://www.quantopian.com/contest/university-quant-finance-competition) starting Jan 31st.
 6. There are 4 red and 4 black marbles in a bag. Draw one at time. If you have drawn more black than red, winnings are the number of black marbles in excess of red. Otherwise, you get nothing. Quit at any time. What is your optimal strategy?
