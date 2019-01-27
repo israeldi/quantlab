@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Quant Lab"
+    url: https://israeldi.github.io/friday-workshop/
   - title: "Github"
     icon: "fab fa-fw fa-github"
     url: https://github.com/israeldi
