@@ -20,7 +20,8 @@ sidebar:
 
 4. This week [in the markets](https://www.bloomberg.com). Watch [the yield curve](https://www.bloomberg.com/news/articles/2018-11-16/don-t-take-your-eyes-off-the-yield-curve).
 5. Yield curve bootstrapping recap. For more information, read [Hagan and West](../docs/HaganWest.pdf).
-6. Recreational math and computing with numpy. Watch [graphing a times table on a circle](https://www.youtube.com/watch?v=qhbuKbxJsk8).
+6. Recreational math and computing with numpy. Watch graphing a times table on a circle.
+{% include video id="qhbuKbxJsk8" provider="youtube" %}
 
 
 ### 2018-11-09
