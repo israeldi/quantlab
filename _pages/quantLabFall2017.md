@@ -10,59 +10,89 @@ sidebar:
 ---
 ### Meeting agenda
 
-### 2018-11-16 (last meeting of 2018)
+### Dec 1, 2017
 
-1. [Fermi Problem](../fermi): A classic...you travel back in time to 1 bya (billion years ago)n with a one liter bottle. You fill the bottle with water from the ocean, and dump it out. Then you return to the present day, and buy a liter of water. How many molecules in your purchased liter are from the liter you poured into the ocean?
+1. Show that 1 is the only number in the sequence {1, 11, 111, 1111, ....} that is a perfect square.
 
-2. Brainteaser: you must select a random byte from a data stream of unknown size, but too large to store. How do you do it?
+2. Have you seen the minmax correlation problem from Jane Street? Looking for someone to present a solution in first January meeting.
 
-3. Probability problem: You flip a coin 101 times, and a friend then flips the coin 100 times. What is the probability you flipped more heads?
+3. Recall the problem of the bag with 3 red, and 3 black marbles (see previous week). Implement in Python. What's the strategy if there are 26 red, and 26 black (e.g. like a deck of cards)? What is there are 10,000 red?
 
-4. This week [in the markets](https://www.bloomberg.com). Watch [the yield curve](https://www.bloomberg.com/news/articles/2018-11-16/don-t-take-your-eyes-off-the-yield-curve).
-5. Yield curve bootstrapping recap. For more information, read [Hagan and West](../docs/HaganWest.pdf).
-6. Recreational math and computing with numpy. Watch [graphing a times table on a circle](https://www.youtube.com/watch?v=qhbuKbxJsk8).
+4. Market Report: Bitcoin history, Bitcoin bubble. Is Blockchain the real story? Ongoing transformation of retail to online—where will the warehouse space come from? The US may not be able to produce as much oil as we thought. Why?
 
 
-### 2018-11-09
-1. Warmup: You flip a fair coin 100 times. What is the probability you flip an even number of heads? Prove your answer.
-2. [Fermi Problem](../fermi): How many tires are sold in the US per year?
-3. [Fermi Problem](../fermi): How much does the average taxpayer pay in interest on US Debt? [US Debt Clock](http://www.usdebtclock.org)
-4. Discussion of [US Treasury auctions](https://www.treasurydirect.gov/indiv/products/prod_auctions_glance.htm).
-5. This week [in the markets](https://www.bloomberg.com).
-6. Last time, we learned about pulling US Treasury interest rates into `pandas`. Now, we will use that data to build the instantaneous forward rate curve, and generate the yield curve. Start with [this template](../notebooks/Building a yield curve (short end)-template.ipynb).
+### Nov 17, 2017
 
-### 2018-11-02 No meeting
+1. Complete Running Median problem.
 
-### 2018-10-26
-1. Warmup: You have a coin, and you don’t know if it is fair. How can you use the coin to emulate a fair coin?
-2. [Fermi Problem](../fermi): How many US dollar coins would you have to lay on the surface area of Manhattan in order to fully cover it?
-3. This week in the markets. [Is it Trump](https://www.bloomberg.com/opinion/articles/2018-10-26/trump-is-bad-for-the-stock-market?srnd=premium)? Or [the Fed](https://www.bloomberg.com/news/articles/2018-10-11/trump-escalates-fed-assault-laments-high-rate-he-s-paying)? [FAANG](https://www.bloomberg.com/news/articles/2018-10-26/forget-about-zuckerberg-and-cook-bailing-us-out-taking-stock?srnd=premium)? How about [China](https://www.bloomberg.com/news/articles/2018-10-26/here-are-the-reasons-china-s-equity-rout-is-getting-even-worse?srnd=premium)?
-4. Quantopian uses numerous data sources, including quandl. Quandl has an API that takes advantange of numpy and pandas. Launch jupyter, and open a copy of the [Intro to quandl and iexfinance-template notebook](../notebooks/Intro to quandl and iexfinance-template.ipynb)
+2. There is a bag with 3 red, and 3 black marbles. You draw marbles without replacement, winning a dollar if it is red, paying a dollar if black. What's your strategy?
 
-### 2018-10-19
-1. Introduction to Quantopian. Familiarization with research notebooks and online help.
-2. All sample tatistics fromhave sample bias, and we would like to have a window around our statistic with a probability that the actual value of the statistic. As an example, we complete the notebook exercises given in [Noise in sample correlations](https://www.quantopian.com/posts/noise-in-sample-correlations)
-
-### 2018-10-05
-1. Homework: Let U be standard uniform. Given n observations of U, what is the distribution of the kth order statistic?
-2. Homework: Given X with distribution function F, show that F(X) is uniform
-3. Homework: Now that you’ve built a single stock historical simulation in a spreadsheet, build the same thing in Python (problem 2.22 in the primer).
-4. Historical simulation of multiple stocks.
-5. Monte Carlo portfolio simulation.
+3. Market Report: Bitcoin volatility, Bitcoin as crisis currency, Bitcoin for Square. Norway divesting oil equities.
 
 
-### 2018-09-28
-- Pick up where we left off on page 6 of [Risk Management Primer](../docs/RiskManagementPrimer.pdf)
-- Advertisement for Cubist Systematic Strategies
-    - [Machine Learning Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=machine-learning-researcher-intern&jobCode=CSS-0002498&retURL=/CSCareerSearch?filters=_business=cubist_experience=interns%20and%20entry%20level)
-    - [Quant Monitoring Specialist](https://careers.point72.com/CSJobDetail?jobName=quant-monitoring-specialist&jobCode=CSS-0002144&retURL=/CSCareerSearch)
-    - [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-intern&jobCode=CSS-0000570&retURL=/CSCareerSearch)
-    
-### 2018-09-05
-1. If you haven’t already done so, install vscode (Visual Studio Code) with Anaconda. I couldn’t find a way to incrementally install it, so you can simply download and install Anaconda again. At the end of the install, it will ask you if you want to install Visual Studio Code.
+### Nov 10, 2017
 
-2. OOP with Python using [Complex numbers as an example](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem).
+1. Continue implementation of heap in Python, and apply it to the Running Median problem.
 
-3. Take a look at the [HackerRank Interview prep kit](https://www.hackerrank.com/interview/interview-preparation-kit), and in particular the [Hash Tables: Ransom note exercise](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps). Watch the Hash Tables video (on the right side of page).
 
-4. Read these articles to build knowledge of the market—I will be asking for summaries. [Emerging markets](https://www.bloomberg.com/opinion/articles/2018-09-03/we-may-be-facing-a-textbook-emerging-market-crisis), [Contagion](https://www.bloomberg.com/opinion/articles/2018-09-05/u-s-equity-bulls-just-say-no-to-contagion?srnd=premium), [Interest rates](https://www.marketwatch.com/story/treasury-yields-steady-ahead-of-pce-inflation-data-2018-08-30), and [cryptocurrencies](https://www.bloomberg.com/news/articles/2018-09-05/bitcoin-drops-3-in-10-minutes-as-cryptocurrencies-join-selloff)
+### Nov 3, 2017
+
+1. Getting the right data structure: Review problem (6.14) from Quant interview book.
+
+2. What's a heap, and why do we care? We implement one in Python, and apply it to the Running Median problem.
+
+3. Market Report: What went on at the Fed this week ? Search Yellen and Powell. What does Blankfein think about tax cuts, and why?
+
+
+### Oct 27, 2017
+
+1. Market Report: What happened with Alphabet, Amazon, and Microsoft on Thursday? What are stress tests, who cares about them, and what did a US Treasury report just recommend?
+
+2. Two bags of marbles: Problem (8.20) from Quant interview book.
+
+3. What would be the price of 9 year US Treasury bond with 9% coupons? We'll figure it out using zero coupon data from Quandl. Bonus: what's a perpetuity, and how would you price one?
+
+
+### Oct 20, 2017
+
+1. Market Report: Where’s the the Dow? What’s been happening to it over the past week, month, year? SP500? NASDAQ? FTSE 100? Nikkei 225? What happened to ToysRUs CDS spreads last month?
+
+2. Discuss airplane boarding problem (8.18) from Quant interview book.
+
+3. Monte Carlo Simulation: clone the latest code. Discuss the summability of IES (incremental expected shortfall).
+
+4. Coherent risk measures, subadditivity, and an example of the failure of VaR to be subadditive.
+
+
+### Oct 6, 2017
+
+1. Warmup: Project Euler problems 46 and 47.
+
+2. What's a heap?
+
+3. Monte Carlo Simulation: clone the latest code. Calculating VaR at various quantiles shouldn't require re-sorting the PnL. We learn about lazy initialization. We apply the same thing to ES. Time permitting, we compute portfolio risk.
+
+
+### Sep 29, 2017
+
+1. Review last week's brainteaser on checkerboards, dominoes, and trominoes.
+
+2. Coding exercise: Project Euler problems 30 and 35.
+
+3. We will continue studying portfolio risk next week. At 9:50am, we will head over to the Tozzi Lab (Ross, room R0400) for Kai Petainen's Intro to FactSet and Bloomberg workshop, from 10am to noon. This is part of Kai's Fall series of workshops.
+
+
+### Sep 22, 2017
+
+1. Warmup: Project Euler problems 20 and 25.
+
+2. Given the order statistics of a sample of size 10, what are the quantiles associated with each statistic? In particular, the first, and the last? We discuss some approaches to this.
+
+3. Monte Carlo Simulation: clone the latest code. Calculating VaR at various quantiles shouldn't require re-sorting the PnL. We learn about lazy initialization. We compute expected shortfall, aka AVaR (average VaR), aka CVaR (conditional VaR).
+
+4. Brainteaser: Checkerboards, dominoes, and trominoes.
+
+
+### Sep 15, 2017
+
+1. Monte Carlo Simulation: clone the latest code. We altered the Position object in a Portfolio keep track of its PnL, and we can calculate VaR of the position.
