@@ -13,21 +13,19 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Workshop Home Page"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Quant program links `type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "Quant Lab Agenda"
     excerpt: "Winter 2019 Friday-Workshops."
     url: "https://israeldi.github.io/friday-workshop/quantLabWinter2019/"
-    btn_label: "Go"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Jobs and Internships"
     excerpt: "Resources for researching jobs and internships"
     url: "https://pbenson.github.io"
-    btn_label: "Go"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
