@@ -19,7 +19,7 @@ For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
 
 2. Python problem: There are 4 red and 4 black marbles in a bag. Draw one at time. If you have drawn more black than red, winnings are the number of black marbles in excess of red. Otherwise, you get nothing. Quit at any time.
     - Solve by hand. What is your optimal strategy?
-    - Implement in Python. Verify if it matches your calculation by hand. Download the jupyter notebook [here](https://github.com/dlu-umich/dlu-umich.github.io/blob/master/friday-workshop/RedBlackMarble-DP.ipynb).
+    - Implement in Python. Verify if it matches your calculation by hand. Download the jupyter notebook [here](https://nbviewer.jupyter.org/github/dlu-umich/dlu-umich.github.io/blob/master/friday-workshop/RedBlackMarble-DP.ipynb).
     - Solve with 20 red and 20 black marbles. Does your program work? If not, what can you do about it? What is the computational complexity of your solution?
     - What if there are 1000 red and 1000 black marbles?
     - What if there are 1 million red and 1 million black marbles?
