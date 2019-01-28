@@ -79,7 +79,7 @@ sidebar:
 
 2. Coding exercise: [Project Euler problems 30 and 35](https://projecteuler.net).
 
-3. We will continue studying portfolio risk next week. At 9:50am, we will head over to the Tozzi Lab (Ross, room R0400) for Kai Petainen's [Intro to FactSet and Bloomberg[(../tozzi/Intro-FactSet-Bloomberg.pdf) workshop, from 10am to noon. This is part of Kai's Fall series of workshops.
+3. We will continue studying portfolio risk next week. At 9:50am, we will head over to the Tozzi Lab (Ross, room R0400) for Kai Petainen's [Intro to FactSet and Bloomberg](../tozzi/Intro-FactSet-Bloomberg.pdf) workshop, from 10am to noon. This is part of Kai's Fall series of workshops.
 
 
 ### Sep 22, 2017
