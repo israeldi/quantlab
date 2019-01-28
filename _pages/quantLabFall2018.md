@@ -68,3 +68,26 @@ sidebar:
 {% include video id="shs0KM3wKv8" provider="youtube" %}
 
 4. Read these articles to build knowledge of the market—I will be asking for summaries. [Emerging markets](https://www.bloomberg.com/opinion/articles/2018-09-03/we-may-be-facing-a-textbook-emerging-market-crisis), [Contagion](https://www.bloomberg.com/opinion/articles/2018-09-05/u-s-equity-bulls-just-say-no-to-contagion?srnd=premium), [Interest rates](https://www.marketwatch.com/story/treasury-yields-steady-ahead-of-pce-inflation-data-2018-08-30), and [cryptocurrencies](https://www.bloomberg.com/news/articles/2018-09-05/bitcoin-drops-3-in-10-minutes-as-cryptocurrencies-join-selloff)
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://israeldi.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
