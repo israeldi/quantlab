@@ -19,6 +19,7 @@ sidebar:
 3. Probability problem: You flip a coin 101 times, and a friend then flips the coin 100 times. What is the probability you flipped more heads?
 
 4. This week [in the markets](https://www.bloomberg.com). Watch [the yield curve](https://www.bloomberg.com/news/articles/2018-11-16/don-t-take-your-eyes-off-the-yield-curve).
+https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf
 5. Yield curve bootstrapping recap. For more information, read [Hagan and West](../docs/HaganWest.pdf).
 6. Recreational math and computing with numpy. Watch graphing a times table on a circle.
 {% include video id="qhbuKbxJsk8" provider="youtube" %}
