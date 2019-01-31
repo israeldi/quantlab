@@ -20,7 +20,7 @@ sidebar:
 
 4. This week [in the markets](https://www.bloomberg.com). Watch [the yield curve](https://www.bloomberg.com/news/articles/2018-11-16/don-t-take-your-eyes-off-the-yield-curve).
 https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf
-5. Yield curve bootstrapping recap. For more information, read [Hagan and West](../docs/HaganWest.pdf).
+5. Yield curve bootstrapping recap. For more information, read [Hagan and West](../files/HaganWest.pdf).
 6. Recreational math and computing with numpy. Watch graphing a times table on a circle.
 {% include video id="qhbuKbxJsk8" provider="youtube" %}
 
@@ -54,7 +54,7 @@ https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.p
 
 
 ### 2018-09-28
-- Pick up where we left off on page 6 of [Risk Management Primer](../docs/RiskManagementPrimer.pdf)
+- Pick up where we left off on page 6 of [Risk Management Primer](../files/RiskManagementPrimer.pdf)
 - Advertisement for Cubist Systematic Strategies
     - [Machine Learning Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=machine-learning-researcher-intern&jobCode=CSS-0002498&retURL=/CSCareerSearch?filters=_business=cubist_experience=interns%20and%20entry%20level)
     - [Quant Monitoring Specialist](https://careers.point72.com/CSJobDetail?jobName=quant-monitoring-specialist&jobCode=CSS-0002144&retURL=/CSCareerSearch)
