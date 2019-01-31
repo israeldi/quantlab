@@ -50,3 +50,13 @@ docs:
       - title: "Github"
         url: /github/
 
+  - title: Files
+    children:
+      - title: "Files"
+        url: /files/
+
+  - title: Jupyter Notebooks
+    children:
+      - title: "Jupyter Notebooks"
+        url: /notebooks/
+
