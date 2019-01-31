@@ -21,7 +21,7 @@ sidebar:
 
 1. [Fermi Question](../fermi): What number of US dollar coins would you have to lay on the surface area of Manhattan in order to fully cover it?
 
-2. A simple game of cards: problem 8.21 from [Quant Technical Interview Questions](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+2. A simple game of cards: problem 8.21 from [Quant Technical Interview Questions](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 
 3. More Java collections: [Maps](https://www.hackerrank.com/challenges/phone-book/problem"), and [HashSets](https://www.hackerrank.com/challenges/java-hashset/problem).
 
@@ -34,7 +34,7 @@ sidebar:
 
 1. [Fermi Question](../fermi): what is 4 to the 435th (as a power of ten)?
 
-2. Friends flipping coins, problem 3.21 from [Quant Technical Interview Questions](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf). If you need to install Java and Eclipse, see last meeting's instructions.
+2. Friends flipping coins, problem 3.21 from [Quant Technical Interview Questions](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). If you need to install Java and Eclipse, see last meeting's instructions.
 
 3. Some important Java collections: Lists. See [HRList](https://github.com/pbenson/Quant-java/tree/master/eclipse-workspace) for source. [Maps](https://www.hackerrank.com/challenges/phone-book/problem), and [HashSets](https://www.hackerrank.com/challenges/java-hashset/problem). Along the way, learn a little bit about Java interfaces.
 
@@ -60,7 +60,7 @@ sidebar:
 
 1. A question from [Fermi Questions](../fermi).
 
-2. Alex and Beth are flipping coins. See problem 3.20 from [Quant interview book](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+2. Alex and Beth are flipping coins. See problem 3.20 from [Quant interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 
 3. Counting rectangles: [Project Euler problem 85](https://projecteuler.net/problem=85).
 
@@ -69,7 +69,7 @@ sidebar:
 
 ### Feb 2, 2018
 1. A question from [Fermi Questions](../fermi).
-2. Imagine it's snowing...see problem 13 from the [Quant interview book](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+2. Imagine it's snowing...see problem 13 from the [Quant interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 3. Coding warmup: Sometimes, you just need more precision. Try [Project Euler problem 80](https://projecteuler.net/problem=80). But before you code it, put on your Fermi hat, and estimate the answer.
 4. A wrap-up on what we wrote last week for [tranched credit indices](https://github.com/pbenson/Quant-python/tree/master/CreditTranches).
 5. Market Report. How did [Tesla raise money](https://www.bloomberg.com/news/articles/2018-01-31/when-it-comes-to-tesla-car-bonds-buyers-simply-can-t-get-enough) this past week?
@@ -90,18 +90,18 @@ sidebar:
 
 1. Warmup: [Project Euler problem 50](https://projecteuler.net/problem=50). Solution is [here](https://github.com/pbenson/Quant-python/tree/master/ProjectEuler).
 
-2. Recall the problem from last time: We built a simulation of n correlated assets, and via [Monte Carlo simulation in Python](https://github.com/pbenson/Quant-python/tree/master/SharedCorrelation), we found an empirical distribution of the number of assets that had negative return. Why is the number of assets that have positive return uniformly distributed? Try to figure it out on your own. But if you must, solution is [here](../docs/rmj4q05.pdf), starting on page 3.
+2. Recall the problem from last time: We built a simulation of n correlated assets, and via [Monte Carlo simulation in Python](https://github.com/pbenson/Quant-python/tree/master/SharedCorrelation), we found an empirical distribution of the number of assets that had negative return. Why is the number of assets that have positive return uniformly distributed? Try to figure it out on your own. But if you must, solution is [here](../files/rmj4q05.pdf), starting on page 3.
 
 3. Market Report.
 
 
 ### Jan 5, 2018
 
-1. Wrap up Python implementation of the bag with 3 red, and 3 black marbles (see [previous week](BlackRedMarbleSDP.JPG)). How big can you scale up your solver?
+1. Wrap up Python implementation of the bag with 3 red, and 3 black marbles (see [previous week](../BlackRedMarbleSDP.JPG)). How big can you scale up your solver?
 
-2. Student presentation: Solution to the [minmax correlation problem from Jane Street](JaneStreetCorrelationProblem.JPG)? Solutions presented by Patrick Lu and Jiahua Gu.
+2. Student presentation: Solution to the [minmax correlation problem from Jane Street](../JaneStreetCorrelationProblem.JPG)? Solutions presented by Patrick Lu and Jiahua Gu.
 
-3. Consider problem 5.2 from the [Quant Technical Interview Questions](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf). We built a simulation of n correlated assets, and via Monte Carlo simulation in Python, we found an empirical distribution of the number of assets that had negative return. Challenge for next time: explain the distribution for the case where pairwise asset correlation is 0.5.
+3. Consider problem 5.2 from the [Quant Technical Interview Questions](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). We built a simulation of n correlated assets, and via Monte Carlo simulation in Python, we found an empirical distribution of the number of assets that had negative return. Challenge for next time: explain the distribution for the case where pairwise asset correlation is 0.5.
 
 4. Market Report: Bitcoin continues to be in the news.
 
