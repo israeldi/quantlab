@@ -14,7 +14,7 @@ sidebar:
 
 1. Update as needed from [GitHub](../github). We will create a method called `writeSimulation` that can dump any number of market price simulations into a file.
 
-2. Question 3.11 from [Quant interview book](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+2. Question 3.11 from [Quant interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 
 3. We'll finish with practice problems from [Project Euler](https://projecteuler.net/sign_in).
 
@@ -32,7 +32,7 @@ sidebar:
 
 2. Update your fork of [Python implementation of multi-factor Monte Carlo](https://github.com/pbenson/umich-quant/tree/master/python/MFMC). If necessary, [download historical S&P data](https://quantquote.com/historical-stock-data) from QuantQuote, on the Free Data tab.
 
-3. Questions 3.10 from [Quant interview book](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+3. Questions 3.10 from [Quant interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 
 
 ### March 10, 2017
@@ -50,20 +50,20 @@ sidebar:
 
 3. From HackerRank's [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview): [Trees](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree), [Ransom Notes](https://www.hackerrank.com/challenges/ctci-ransom-note), and [Contacts](https://www.hackerrank.com/challenges/ctci-contacts). If you want to better understand hash tables, watch the video that accompanies Random Notes.
 
-4. Questions 1.10, 8.1, and 8.2 from [Quant interview book](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+4. Questions 1.10, 8.1, and 8.2 from [Quant interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 
 
 ### Feb 17, 2017
 
 1. Continue implementation of Multifactor Monte Carlo in Python.
 
-2. Any questions about [technical interview book](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf)?
+2. Any questions about [technical interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)?
 
 
 ### Feb 10, 2017
 To prepare:
 
-1. Review updates to [technical interview book](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+1. Review updates to [technical interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 
 2. [Install pandas](https://www.jetbrains.com/help/pycharm/2016.3/installing-uninstalling-and-upgrading-packages.html) in PyCharm if necessary.
 
@@ -78,7 +78,7 @@ To prepare:
     
 1. Install [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/). We’ll be doing some Python in an IDE that has better debugging support than Jupyter.
 
-2. Solve the BinaryTree problem from the [technical interview book](https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.pdf). You may use C++ or Python or both.
+2. Solve the BinaryTree problem from the [technical interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). You may use C++ or Python or both.
 
 3. Do LeetCode problems 2 and 20 (some of you have already done #20).
 
@@ -86,7 +86,7 @@ To prepare:
 
 5. We discovered that our C++ code for Monte Carlo does not react gracefully to an invalid name for a MarketFactor ("APL" is unknown). A better way to deal with this is through [exceptions](http://stackoverflow.com/questions/8480640/how-to-throw-a-c-exception).
 
-6. Carlo Acerbi of MSCI presented on [Backtesting expected shortfall](../docs/GeneralPropertiesOfBacktestableStatistics.pdf).
+6. Carlo Acerbi of MSCI presented on [Backtesting expected shortfall](../files/GeneralPropertiesOfBacktestableStatistics.pdf).
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
