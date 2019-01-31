@@ -10,13 +10,13 @@ sidebar:
 ---
 You can find some notebooks here from previous workshops:
 
-- [Building a complete risk-free yield curve](/Building a complete risk-free yield curve.ipynb)
-- [Building a yield curve (short end)-template](/Building a yield curve (short end)-template.ipynb)
-- [Building a yield curve (short end)](/Building a yield curve (short end).ipynb)
+- [Building a complete risk-free yield curve](./Building a complete risk-free yield curve.ipynb)
+- [Building a yield curve (short end)-template](./Building a yield curve (short end)-template.ipynb)
+- [Building a yield curve (short end)](./Building a yield curve (short end).ipynb)
 - [FX Data](/FX Data .ipynb)
-- [Intro to quandl and iexfinance-template](/Intro to quandl and iexfinance-template.ipynb)
-- [Intro to quandl and iexfinance](/Intro to quandl and iexfinance.ipynb)
-- [Times table on a circle](/Times table on a circle.ipynb)
+- [Intro to quandl and iexfinance-template](./Intro to quandl and iexfinance-template.ipynb)
+- [Intro to quandl and iexfinance](./Intro to quandl and iexfinance.ipynb)
+- [Times table on a circle](./Times table on a circle.ipynb)
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
