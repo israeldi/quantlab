@@ -66,8 +66,8 @@ search_full_content      : true # , false (default)
 search_provider          : "algolia"
 algolia:
   application_id         : "T6DWTZQOBM" # YOUR_APPLICATION_ID
-  index_name             : #"friday_workshop2" # YOUR_INDEX_NAME
-  search_only_api_key    : "4704a544add99d461048379f505940ea" # YOUR_SEARCH_ONLY_API_KEY
+  index_name             : "friday_workshop" # YOUR_INDEX_NAME
+  search_only_api_key    : "895fa0c445c252df1a38360a4c86fbc4" # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
 # SEO Related
 google_site_verification : _1qiQeNXzCRBYYYjvxEaTw0_-j5cyJl0Jx4u7BWf5fw
