@@ -14,3 +14,5 @@ sidebar:
 
 ### TUTORIAL UNDER CONSTRUCTION
 
+For More information and additional tips and tricks, go to [author's website](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#).
+
