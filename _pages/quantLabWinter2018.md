@@ -90,7 +90,7 @@ sidebar:
 
 1. Warmup: [Project Euler problem 50](https://projecteuler.net/problem=50). Solution is [here](https://github.com/pbenson/Quant-python/tree/master/ProjectEuler).
 
-2. Recall the problem from last time: We built a simulation of n correlated assets, and via [Monte Carlo simulation in Python](https://github.com/pbenson/Quant-python/tree/master/SharedCorrelation), we found an empirical distribution of the number of assets that had negative return. Why is the number of assets that have positive return uniformly distributed? Try to figure it out on your own. But if you must, solution is [here](../files/rmj4q05.pdf), starting on page 3.
+2. Recall the problem from last time: We built a simulation of $n$ correlated assets, and via [Monte Carlo simulation in Python](https://github.com/pbenson/Quant-python/tree/master/SharedCorrelation), we found an empirical distribution of the number of assets that had negative return. Why is the number of assets that have positive return uniformly distributed? Try to figure it out on your own. But if you must, solution is [here](../files/rmj4q05.pdf), starting on page 3.
 
 3. Market Report.
 
