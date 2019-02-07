@@ -49,6 +49,8 @@ docs:
     children:
       - title: "Github"
         url: /github/
+      - title: "Build your Own Site"
+        url: /web_kit/
 
   - title: Files
     children:
