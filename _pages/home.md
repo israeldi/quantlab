@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/blockM.jpg
 excerpt: "Workshop Home Page"
 intro: 
-  - excerpt: 'Quant program links `type="center"`'
+  - excerpt: 'Quant program links'
 feature_row:
   - image_path: assets/images/weiser.jpg
     alt: "placeholder image 1"
