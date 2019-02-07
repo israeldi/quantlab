@@ -47,7 +47,7 @@ https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.p
 
 ### 2018-10-05
 1. Homework: Let U be standard uniform. Given n observations of U, what is the distribution of the kth order statistic?
-2. Homework: Given X with distribution function F, show that F(X) is uniform
+2. Homework: Given $X$ with distribution function $F$, show that $F(X)$ is uniform
 3. Homework: Now that you’ve built a single stock historical simulation in a spreadsheet, build the same thing in Python (problem 2.22 in the primer).
 4. Historical simulation of multiple stocks.
 5. Monte Carlo portfolio simulation.
