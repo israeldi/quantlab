@@ -22,7 +22,7 @@ For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
 3. Pick up where we left with [Red & Black Marble problem](https://nbviewer.jupyter.org/github/dlu-umich/dlu-umich.github.io/blob/master/friday-workshop/RedBlackMarble-DP.ipynb).
 - Recursion with cache
 - Tree node as a class object
-- With n red/black balls, how will the initial payoff of the game grow? Any good approximation? Think about why.
+- With $n$ red/black balls, how will the initial payoff of the game grow? Any good approximation? Think about why.
 
 ### 2019-01-25
 
