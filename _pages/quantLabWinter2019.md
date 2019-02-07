@@ -15,7 +15,7 @@ For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
 ### 2019-02-09
 1. Warmup questions:
 - A & B are alternately picking balls from a bag without replacement. The bag has k black balls and 1 red ball. Winner is the one who picks the red ball. Who is more likely to win, the on who starts first, or second?
-- Given X, Y, Z are i.i.d., which is expected to be larger, X*Y or Z^2? What is the case they can be equal? 
+- Given $X, Y, Z$ are $i.i.d.$, which is expected to be larger, $X*Y$ or $Z^2$? What is the case they can be equal? 
 
 2. Market Report. Is dollar ['Best of a bad bunch'](https://www.bloomberg.com/news/articles/2019-02-07/global-rate-shift-upends-wall-street-s-weaker-dollar-consensus?srnd=fixed-income)?
 
