@@ -46,7 +46,7 @@ https://pbenson.github.io/docs/quantTechnicalQuestions/quantTechnicalQuestions.p
 2. All sample tatistics fromhave sample bias, and we would like to have a window around our statistic with a probability that the actual value of the statistic. As an example, we complete the notebook exercises given in [Noise in sample correlations](https://www.quantopian.com/posts/noise-in-sample-correlations)
 
 ### 2018-10-05
-1. Homework: Let U be standard uniform. Given n observations of U, what is the distribution of the kth order statistic?
+1. Homework: Let $U$ be standard uniform. Given $n$ observations of $U$, what is the distribution of the $k$-th order statistic?
 2. Homework: Given $X$ with distribution function $F$, show that $F(X)$ is uniform
 3. Homework: Now that you’ve built a single stock historical simulation in a spreadsheet, build the same thing in Python (problem 2.22 in the primer).
 4. Historical simulation of multiple stocks.
