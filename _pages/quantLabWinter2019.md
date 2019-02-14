@@ -15,7 +15,7 @@ For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
 ### 2019-15-08
 1. Warmup problem(s):
 - Chocolate Bars : There is a $6$x$8$ rectangular chocolate bar made up of small $1$x$1$ bits. We want to break it into the $48$ bits. We can break one piece of chocolate horizontally or vertically, but cannot break two pieces together! What is the minimum number of breaks required?
-- Square Infection : An infection spreads among the squares of an $n\times n$ checkerboard in the following manner. If a square has two or more infected neighbors, it becomes infected itself. (Each square has at most $4$ neighbors only!). Prove that you cannot infect the whole board if you begin with fewer than n infected squares.
+- Square Infection : An infection spreads among the squares of an $n\times n$ checkerboard in the following manner. If a square has two or more infected neighbors, it becomes infected itself. (Each square has at most $4$ neighbors only!). Prove that you cannot infect the whole board if you begin with fewer than $n$ infected squares.
 
 2. Market report
 
