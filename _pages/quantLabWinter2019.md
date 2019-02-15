@@ -17,11 +17,11 @@ For Winter 2019, we will meet on Fridays, 10am-11:20pm in 110 Weiser Hall.
 - **Chocolate Bars** : There is a $6$x$8$ rectangular chocolate bar made up of small $1$x$1$ bits. We want to break it into the $48$ bits. We can break one piece of chocolate horizontally or vertically, but cannot break two pieces together! What is the minimum number of breaks required?
 - **Square Infection** : An infection spreads among the squares of an $n\times n$ checkerboard in the following manner. If a square has two or more infected neighbors, it becomes infected itself. (Each square has at most $4$ neighbors only!). Prove that you cannot infect the whole board if you begin with fewer than $n$ infected squares.
 
-2. Market report
+2. [Market report](https://drive.google.com/open?id=1TQY6seONGz4L1ALpk2x3g5QOm_WrDY_5)
 
 3. Revisit basic data structures in Python and take a look at [algorithm problems](https://nbviewer.jupyter.org/github/dlu-umich/dlu-umich.github.io/blob/master/friday-workshop/Basic%20Data%20Structure%20%26%20Algo.ipynb): 
-- Two Sum problem, see how selecting a good data structure help with efficiency; 
-- Maximum Sum Subarray, develop an algo to model maximum drawdown for *AAPL*.
+- **Two Sum problem** : see how selecting a good data structure help with efficiency; 
+- **Maximum Sum Subarray** : develop an algo to model maximum drawdown for *AAPL*.
 
 ### 2019-02-08
 1. Warmup questions:
