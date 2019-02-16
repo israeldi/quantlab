@@ -53,7 +53,7 @@ Check out these website profiles using this theme!
 
 - [Michael Rose](https://mmistakes.github.io/minimal-mistakes/about/#) (Theme Author)
 - [Israel Diego](https://israeldi.github.io) - My Webpage
-- [Li Zeng](https://zenglix.github.io)
+- [Li Zeng](https://zenglix.github.io/About/)
 - [Rafael Benevides](http://rafabene.com/about/)
 
 ### Additional
