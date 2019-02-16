@@ -48,6 +48,14 @@ Here is where you edit your pages. Fill it with all sorts of Markdown Language.
 ### 6. Edit Your Site's Navigation Bar
 - In this case find and edit the `naviation.yml` file inside of `_data` folder.
 
+### 7. Sample Websites
+Check out these website profiles using this theme!
+
+- [Michael Rose](https://mmistakes.github.io/minimal-mistakes/about/#) (Theme Author)
+- [Israel Diego](https://israeldi.github.io) - My Webpage
+- [Li Zeng](https://zenglix.github.io)
+- [Rafael Benevides](http://rafabene.com/about/)
+
 ### Additional
 
 For More information and additional tips and tricks, go to [author's website](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#).
