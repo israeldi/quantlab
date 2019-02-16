@@ -46,7 +46,7 @@ Here is where you edit your pages. Fill it with all sorts of Markdown Language.
 </figure>
 
 ### 6. Edit Your Site's Navigation Bar
-- In this case find the `naviation.yml` file inside of `_data` folder.
+- In this case find and edit the `naviation.yml` file inside of `_data` folder.
 
 ### Additional
 
