@@ -19,10 +19,23 @@ sidebar:
 
 ### 3. Add Repo to Github Desktop (Recommended)
 - [Download Github Desktop](https://desktop.github.com)
-- Add your newly created github repository
+- Add your newly created github repository to Github Desktop
 
 <figure>
   <img src="{{ '/assets/images/GitDesktop.gif' | relative_url }}" alt="adding repo to GitHub Desktop">
+</figure>
+
+### 4. Edit the `_config.yml` file
+The main fields to change here are:
+
+- minimal_mistakes_skin 
+- title, name, description, url, repository
+- Site Author Section
+  - name, avatar, bio, location
+Note: to change your "avatar" (profile picture), this is located in the assets folder.
+
+<figure>
+  <img src="{{ '/assets/images/changeProfile.gif' | relative_url }}" alt="Change Profile Picture">
 </figure>
 
 ### TUTORIAL UNDER CONSTRUCTION
