@@ -45,6 +45,9 @@ Here is where you edit your pages. Fill it with all sorts of Markdown Language.
   <img src="{{ '/assets/images/editPage.gif' | relative_url }}" alt="Change Profile Picture">
 </figure>
 
+### 6. Edit Your Site's Navigation Bar
+- In this case find the `naviation.yml` file inside of `_data` folder.
+
 ### Additional
 
 For More information and additional tips and tricks, go to [author's website](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#).
