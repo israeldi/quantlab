@@ -35,7 +35,7 @@ The main fields to change here are:
 **Note:** to change your "avatar" (profile picture), this is located in the assets folder.
 
 <figure>
-  <img src="{{ '/assets/images/changeProfile.gif' | relative_url }}" alt="Change Profile Picture">
+  <img src="{{ '/assets/images/changeProfilePic.gif' | relative_url }}" alt="Change Profile Picture">
 </figure>
 
 ### 5. Edit Your About Page
