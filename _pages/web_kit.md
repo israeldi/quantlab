@@ -28,9 +28,9 @@ sidebar:
 ### 4. Edit the `_config.yml` file
 The main fields to change here are:
 
-- minimal_mistakes_skin 
+- *minimal_mistakes_skin* : This will change the color of your homepage. You have many theme options such as: "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 - title, name, description, url, repository
-- Site Author Section
+- *Site Author Section*
   - name, avatar, bio, location.
 **Note:** to change your "avatar" (profile picture), this is located in the assets folder.
 
