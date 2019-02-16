@@ -31,14 +31,21 @@ The main fields to change here are:
 - minimal_mistakes_skin 
 - title, name, description, url, repository
 - Site Author Section
-  - name, avatar, bio, location
-Note: to change your "avatar" (profile picture), this is located in the assets folder.
+  - name, avatar, bio, location.
+**Note:** to change your "avatar" (profile picture), this is located in the assets folder.
 
 <figure>
   <img src="{{ '/assets/images/changeProfile.gif' | relative_url }}" alt="Change Profile Picture">
 </figure>
 
-### TUTORIAL UNDER CONSTRUCTION
+### 5. Edit Your About Page
+Here is where you edit your pages. Fill it with all sorts of Markdown Language.
+
+<figure>
+  <img src="{{ '/assets/images/editPage.gif' | relative_url }}" alt="Change Profile Picture">
+</figure>
+
+### Additional
 
 For More information and additional tips and tricks, go to [author's website](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#).
 
