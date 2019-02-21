@@ -11,6 +11,13 @@ sidebar:
 For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
+### 2019-02-22
+1. Warmup problem(s):
+A drunk man is at the 36th meter of a 100 meter long bridge. He has equal chance of staggering forward or backward 1 meter each step. 
+- What is the probability that he will make it to the end of the bridge (100th meter) before the beginning (0th meter)? 
+- What is the expected number of steps he takes to either the beginning or the end of the bridge?
+
+2. Pick up our discussion of the max subarray problem. Also look at other variates. Download the notebook [here](https://nbviewer.jupyter.org/github/dlu-umich/dlu-umich.github.io/blob/master/friday-workshop/Basic%20Data%20Structure%20%26%20Algo.ipynb).
 
 ### 2019-02-15
 1. Warmup problem(s):
