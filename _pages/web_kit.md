@@ -39,7 +39,9 @@ The main fields to change here are:
 </figure>
 
 ### 5. Edit Your About Page
-Here is where you edit your pages. Fill it with all sorts of Markdown Language.
+Now we can edit the contents of your page. Find the `about.md` file insde of 
+the `_pages` folder. Fill this with all sorts of Markdown Language, which is exactly
+the same syntax you use to edit your Jupyter Notebooks. 
 
 <figure>
   <img src="{{ '/assets/images/editPage.gif' | relative_url }}" alt="Change Profile Picture">
