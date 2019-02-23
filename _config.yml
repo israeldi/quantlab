@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Quant Lab"
 title_separator          : "-"
-name                     : "Israel Diego"
-description              : "Master of Science in Quantitative Finance and Risk Management. University of Michigan. Israel Diego"
+name                     : "Quant Lab"
+description              : "Quantitative Finance and Risk Management. University of Michigan."
 url                      : "https://israeldi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/israeldi/israeldi.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : https://github.com/israeldi/friday_workshop # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
@@ -100,18 +100,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Israel Diego"
-  avatar           : "/assets/images/profile_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : ""
+  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Master of Science in Quantitative Finance and Risk Management | University of Michigan"
   location         : "Ann Arbor, Michigan"
-  email            : #israeldi@umich.edu
+  email            : #
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:israeldi@umich.edu"
-    - label: "University Profile"
-      icon: "fas fa-fw fa-link"
-      url: "https://lsa.umich.edu/math/people/quant/2018/israeldi.html"
+      url: ""
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -120,10 +117,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/israeldi"
+      url: "https://github.com/israeldi/friday-workshop"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/israel-diego/"
+      url: "https://www.linkedin.com/in/umichquant/"
 
 # Site Footer
 footer:
@@ -136,7 +133,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/israeldi"
+      url: "https://github.com/israeldi/friday-workshop"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
