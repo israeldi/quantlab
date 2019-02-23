@@ -50,7 +50,10 @@ the same syntax you use to edit your Jupyter Notebooks.
 ### 6. Edit Your Site's Navigation Bar
 - In this case find and edit the `naviation.yml` file inside of `_data` folder.
 
-### 7. Sample Websites
+### 7. Commit your changes
+- Remember to commit your changes on Github Desktop in order to update your website page.
+
+### 8. Sample Websites
 Check out these website profiles using this theme!
 
 - [Michael Rose](https://mmistakes.github.io/minimal-mistakes/about/#) (Theme Author)
