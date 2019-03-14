@@ -11,6 +11,13 @@ sidebar:
 For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
+### 2019-03-15
+1. Quant Interview Questions
+
+2. Introduction to SQL
+- SQL lecture [presentation](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html#exercises) from Stats 506
+- Workshop [Exercises](https://raw.githubusercontent.com/Yuhanl/UM_Quant_Lab/master/SQL_Intro.R), [Solutions]()
+
 ### 2019-02-22
 1. Warmup problem(s):
 A drunk man is at the $36$th meter of a $100$ meter long bridge. He has equal chance of staggering forward or backward $1$ meter each step. 
