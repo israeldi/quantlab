@@ -15,6 +15,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 1. Warmup problem(s):
 i. **Brainteaser**
     - How can I get the answer $24$ by only using the numbers $8, 8, 3$ and $3$. You can use add, subtract, multiply, divide, and parentheses.
+
 ii. **Quant Interview Questions**
     - Compute $E[e^{W_t}]$ for Brownian Motion $W_t$.
     - Compute $Var[(W_t - W_s)^2]$ for Brownian Motion $W_t$ when $t = 2$.
