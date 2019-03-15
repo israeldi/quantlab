@@ -12,15 +12,17 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
 ### 2019-03-15
-1. Warmup problem(s):
-- **Brainteaser**
-    - How can I get the answer $24$ by only using the numbers $8, 8, 3$ and $3$. You can use add, subtract, multiply, divide, and parentheses.
-- **Quant Interview Questions**
-    - Compute $E[e^{W_t}]$ for Brownian Motion $W_t$.
-    - Compute $Var[(W_t - W_s)^2]$ for Brownian Motion $W_t$ when $t = 2$.
-    - Let $X_t$ be the price of a share of IBM stock, $t$ years from the present. Assume that $X_t$ follows a geometric Brownian motion with parameters, $r = 0.05$, $\sigma = 0.3$, and $X_0 = 100$. Find $P(X_t < 50)$ one year from now?
+1. **Brainteaser**
+- How can I get the answer $24$ by only using the numbers $8, 8, 3$ and $3$. You can use add, subtract, multiply, divide, and parentheses.
 
-2. Introduction to SQL
+2. **Quant Interview Questions**
+- Compute $E[e^{W_t}]$ for Brownian Motion $W_t$.
+
+- Compute $Var[(W_t - W_s)^2]$ for Brownian Motion $W_t$ when $t = 2$.
+
+- Let $X_t$ be the price of a share of IBM stock, $t$ years from the present. Assume that $X_t$ follows a geometric Brownian motion with parameters, $r = 0.05$, $\sigma = 0.3$, and $X_0 = 100$. Find $P(X_t < 50)$ one year from now?
+
+3. **Introduction to SQL**
   - SQL lecture [presentation](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html) from Stats 506
   - Workshop [Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [Solutions]()
 
