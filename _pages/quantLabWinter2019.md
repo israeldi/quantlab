@@ -17,9 +17,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 2. **Quant Interview Questions**
 - Compute $E[e^{W_t}]$ for Brownian Motion $W_t$.
-
 - Compute $Var[(W_t - W_s)^2]$ for Brownian Motion $W_t$ when $t = 2$.
-
 - Let $X_t$ be the price of a share of IBM stock, $t$ years from the present. Assume that $X_t$ follows a geometric Brownian motion with parameters, $r = 0.05$, $\sigma = 0.3$, and $X_0 = 100$. Find $P(X_t < 50)$ one year from now?
 
 3. **Introduction to SQL**
