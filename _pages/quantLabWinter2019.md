@@ -13,11 +13,10 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 ### Meeting agenda
 ### 2019-03-15
 1. Warmup problem(s):
-
-**Brainteaser**
+i. **Brainteaser**
     - How can I get the answer $24$ by only using the numbers $8, 8, 3$ and $3$. You can use add, subtract, multiply, divide, and parentheses.
 
-**Quant Interview Questions**
+ii. **Quant Interview Questions**
     - Compute $E[e^{W_t}]$ for Brownian Motion $W_t$.
     - Compute $Var[(W_t - W_s)^2]$ for Brownian Motion $W_t$ when $t = 2$.
     - Let $X_t$ be the price of a share of IBM stock, $t$ years from the present. Assume that $X_t$ follows a geometric Brownian motion with parameters, $r = 0.05$, $\sigma = 0.3$, 
