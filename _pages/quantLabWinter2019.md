@@ -12,6 +12,20 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
 ### 2019-03-15
+1. **Quant Interview Questions**
+- Assume Black-Scholes model. Suppose the stock price is $\$100$. The interest rate is $5%$ per year. Consider a one-year European call option struck at-the-money. If the volatility is $\sigma = 0$, what is the call worth? What is its replicating strategy?
+- Assume a Black-Scholes with no dividends. Consider a standard European call struck at-the-money with one year to maturity. If the interest rate is $r = 0.06$, is the option's delta greater or less than $0.5$? What does it depend on?
+- Two standard options have exactly the same features, except that one has long maturity, and the other has short maturity. Which one has the higher gamma?
+
+2. [Market report](https://drive.google.com/open?id=1lxRv4fUasbsgDnAK3cre2_3LtoSLaOJX)
+
+3. Finish SQL exercises from last week:
+  - SQL lecture [presentation](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html) from Stats 506
+  - SQL [Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [Solutions]()
+
+
+
+### 2019-03-15
 1. **Brainteaser**
 - How can I get the answer $24$ by only using the numbers $8, 8, 3$ and $3$. You can use add, subtract, multiply, divide, and parentheses.
 
