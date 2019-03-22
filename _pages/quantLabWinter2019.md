@@ -11,7 +11,7 @@ sidebar:
 For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
-### 2019-03-15
+### 2019-03-22
 1. **Quant Interview Questions**
 - Assume Black-Scholes model. Suppose the stock price is \$$100$. The interest rate is $5%$ per year. Consider a one-year European call option struck at-the-money. If the volatility is $\sigma = 0$, what is the call worth? What is its replicating strategy?
 - Assume a Black-Scholes with no dividends. Consider a standard European call struck at-the-money with one year to maturity. If the interest rate is $r = 0.06$, is the option's delta greater or less than $0.5$? What does it depend on?
