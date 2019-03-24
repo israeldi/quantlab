@@ -36,7 +36,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 3. **Introduction to SQL**
   - SQL lecture [presentation](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html) from Stats 506
-  - SQL [Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [Solutions]()
+  - SQL [Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
 
 ### 2019-02-22
 1. Warmup problem(s):
