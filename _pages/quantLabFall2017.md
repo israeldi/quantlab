@@ -12,11 +12,11 @@ sidebar:
 
 ### Dec 1, 2017
 
-1. Show that 1 is the only number in the sequence {1, 11, 111, 1111, ....} that is a perfect square.
+1. Show that $1$ is the only number in the sequence ${1, 11, 111, 1111, ....}$ that is a perfect square.
 
 2. Have you seen the [minmax correlation problem from Jane Street](../JaneStreetCorrelationProblem.JPG)? Looking for someone to present a solution in first January meeting.
 
-3. Recall the problem of the bag with 3 red, and 3 black marbles (see [previous week](../BlackRedMarbleSDP.JPG)). Implement in Python. What's the strategy if there are 26 red, and 26 black (e.g. like a deck of cards)? What is there are 10,000 red?
+3. Recall the problem of the bag with $3$ red, and $3$ black marbles (see [previous week](../BlackRedMarbleSDP.JPG)). Implement in Python. What's the strategy if there are $26$ red, and $26$ black (e.g. like a deck of cards)? What is there are $10,000$ red?
 
 4. Market Report: [Bitcoin history](https://www.bloomberg.com/news/articles/2017-12-01/understanding-bitcoin-s-rise-0-01-to-11-000-quicktake-q-a), [Bitcoin bubble](https://www.cbsnews.com/news/did-a-bitcoin-bubble-just-burst/). Is [Blockchain](https://www.bloomberg.com/view/articles/2017-11-30/the-blockchain-is-bigger-than-any-bubble) the real story? [Ongoing transformation of retail to online](https://www.bloomberg.com/news/articles/2017-12-01/property-developers-make-bigger-warehouses-for-e-commerce-robots)—where will the warehouse space come from? The [US may not be able to produce as much oil](https://www.bloomberg.com/news/articles/2017-12-01/mit-study-suggests-u-s-vastly-overstates-oil-output-forecasts) as we thought. Why?
 
@@ -25,7 +25,7 @@ sidebar:
 
 1. Complete [Running Median problem](https://github.com/pbenson/Quant-python/tree/master/Heap).
 
-2. There is a bag with 3 red, and 3 black marbles. You draw marbles without replacement, winning a dollar if it is red, paying a dollar if black. What's your strategy?
+2. There is a bag with $3$ red, and $3$ black marbles. You draw marbles without replacement, winning a dollar if it is red, paying a dollar if black. What's your strategy?
 
 3. Market Report: [Bitcoin volatility](https://www.bloomberg.com/news/articles/2017-11-16/bitcoin-hits-record-as-monday-s-29-plunge-fades-to-memory), [Bitcoin as crisis currency](https://www.bloomberg.com/news/articles/2017-11-17/bitcoin-emerges-as-crisis-currency-in-hotspots-such-as-zimbabwe), [Bitcoin for Square](https://cointelegraph.com/news/16-bln-payments-app-square-integrates-bitcoin-whats-next). [Norway divesting oil equities](https://www.bloomberg.com/news/articles/2017-11-17/norway-idea-to-exit-oil-stocks-is-shot-heard-around-the-world).
 
@@ -48,16 +48,16 @@ sidebar:
 
 1. Market Report: What happened with Alphabet, Amazon, and Microsoft on Thursday? What are stress tests, who cares about them, and what did a US Treasury report just recommend?
 
-2. Two bags of marbles: Problem (8.20) from [Quant interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+2. Two bags of marbles: Problem **(8.20)** from [Quant interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 
-3. What would be the price of 9 year US Treasury bond with 9% coupons? We'll figure it out using zero coupon data from Quandl. Bonus: what's a perpetuity, and how would you price one?
+3. What would be the price of $9$ year US Treasury bond with 9% coupons? We'll figure it out using zero coupon data from Quandl. Bonus: what's a perpetuity, and how would you price one?
 
 
 ### Oct 20, 2017
 
 1. Market Report: Where’s the the Dow? What’s been happening to it over the past week, month, year? SP500? NASDAQ? FTSE 100? Nikkei 225? What happened to ToysRUs CDS spreads last month?
 
-2. Discuss airplane boarding problem (8.18) from [Quant interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+2. Discuss airplane boarding problem **(8.18)** from [Quant interview book](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 
 3. Monte Carlo Simulation: [clone the latest code](https://github.com/pbenson/Quant-python). Discuss the summability of IES (incremental expected shortfall).
 
