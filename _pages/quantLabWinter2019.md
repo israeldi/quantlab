@@ -20,7 +20,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
     - What is the probability that all $5$ balls are in strictly increasing order? (i.e. 5, 7, 14, 16, 19)
     - What about the probability that all $5$ balls are in non-decreasing order? **Note:** This problem is more difficult. For a hint, consider the sequences with $2$ balls that are the same and count how many ways this can happen. Then proceed to calculate the number of ways you can have $3$ balls all the same and so on.
 
-2. [Market report]()
+2. [Market report](https://drive.google.com/open?id=1Epj5Wh4SgM3Qh0xw1Pm2R20XjvbewRl9)
 
 3. **Data Incubator Questions (Section 1)**:
   - Download the jupyter notebook [here](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly.
