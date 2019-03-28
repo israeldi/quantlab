@@ -16,9 +16,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 1. **Quant Interview Questions**
 - What is the probability of a flush in Poker (i.e. All $5$ cards have the same suit)?
 - A company hosts a dinner for mothers with at least one son. If Mrs. Tang  has two children, what is the probability that she has two boys?
-- There are 20 balls numbered 1-20. Suppose we draw 5 of them (with replacement).
-    - What is the probability that all $5$ balls are in strictly increasing order? (i.e. 5, 7, 14, 16, 19)
-    - What about the probability that all $5$ balls are in non-decreasing order? **Note:** This problem is more difficult. For a hint, consider the sequences with $2$ balls that are the same and count how many ways this can happen. Then proceed to calculate the number of ways you can have $3$ balls all the same and so on.
+- There are 20 balls numbered 1-20. Suppose we draw 5 of them (with replacement). ***1.*** What is the probability that all $5$ balls are in strictly increasing order (i.e. $5, 7, 14, 16, 19$)? ***2.*** What about the probability that all $5$ balls are in non-decreasing order? **Note:** This problem is more difficult. For a hint, consider the sequences with $2$ balls that are the same and count how many ways this can happen. Then proceed to calculate the number of ways you can have $3$ balls all the same and so on.
 
 2. [Market report](https://drive.google.com/open?id=1Epj5Wh4SgM3Qh0xw1Pm2R20XjvbewRl9)
 
