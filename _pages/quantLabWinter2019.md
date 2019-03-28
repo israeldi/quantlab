@@ -11,6 +11,21 @@ sidebar:
 For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
+
+### 2019-03-29
+1. **Quant Interview Questions**
+- What is the probability of a flush in Poker (i.e. All $5$ cards have the same suit)?
+- A company hosts a dinner for mothers with at least one son. If Mrs. Tang  has two children, what is the probability that she has two boys?
+- There are 20 balls numbered 1-20. Suppose we draw 5 of them (with replacement).
+  i. What is the probability that all $5$ balls are in strictly increasing order? (i.e. 5, 7, 14, 16, 19)
+  ii. What about the probability that all $5$ balls are in non-decreasing order? **Note:** This problem is much more difficult. For a hint, consider the sequences with $2$ balls that are the same and count how many ways this can happen. Then proceed to calculate the number of ways you can have $3$ balls all the same and so on.
+
+2. [Market report]()
+
+3. Data Incubator Questions (Section 1):
+  - Download the jupyter notebook [here](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly.
+
+
 ### 2019-03-22
 1. **Quant Interview Questions**
 - Assume Black-Scholes model. Suppose the stock price $S_0 = 100$. The interest rate is $5$% per year. Consider a one-year European call option struck at-the-money. If the volatility is $\sigma = 0$, what is the call worth? What is its replicating strategy?
@@ -22,7 +37,6 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 3. Finish SQL exercises from last week:
   - SQL lecture [presentation](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html) from Stats 506
   - SQL [Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
-
 
 
 ### 2019-03-15
