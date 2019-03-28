@@ -12,7 +12,7 @@ sidebar:
 
 ### Dec 1, 2017
 
-1. Show that $1$ is the only number in the sequence ${1, 11, 111, 1111, ....}$ that is a perfect square.
+1. Show that $1$ is the only number in the sequence $\{1, 11, 111, 1111, ...\}$ that is a perfect square.
 
 2. Have you seen the [minmax correlation problem from Jane Street](../JaneStreetCorrelationProblem.JPG)? Looking for someone to present a solution in first January meeting.
 
