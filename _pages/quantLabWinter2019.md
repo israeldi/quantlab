@@ -12,7 +12,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
 
-### 2019-04-04
+### 2019-04-05
 1. **Quant Interview Questions**
 - Let $X$ and $Y$ be two standard independent normal variables, i.e., $X \sim N(0,1)$, $Y \sim N(0,1)$ and $\rho(X,Y)=-0.72$. Calculate $E[3X+Y \vert X-Y=1]$ 
 - Suppose the current price of a stock 100. The price has probability 70% of increasing to 110 and probability 30% of declining to 90 in one year. Assume the risk-free rate is 5%. Calculate the value of a call option struck at 100 that matures in one year to four decimal places. 
