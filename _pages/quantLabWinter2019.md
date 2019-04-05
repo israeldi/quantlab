@@ -18,7 +18,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 - Suppose the current price of a stock 100. The price has probability 70% of increasing to 110 and probability 30% of declining to 90 in one year. Assume the risk-free rate is 5%. Calculate the value of a call option struck at 100 that matures in one year to four decimal places. 
 - There are $3$ random variables $X, Y$ and $Z$. The correlation between $X$ and $Y$ is $0.8$ and correlation between $X$ and $Z$ is $0.5$. Calculate the minimum correlation between $Y$ and $Z$, to four decimal places.
  
-2. [Market report]()
+2. [Market report](https://drive.google.com/file/d/0B1TpyFCyvQuGX3BHRnNkNS0tNWFIWEJiRHRCQXY4R3lfNkF3/view?usp=sharing)
 
 3. **Data Incubator Questions (Section 2)**:
   - Download the jupyter notebook [here](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly. [Solution 2]()
