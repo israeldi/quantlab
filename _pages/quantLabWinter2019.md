@@ -12,6 +12,18 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
 
+### 2019-04-04
+1. **Quant Interview Questions**
+- Let $X$ and $Y$ be two standard independent normal variables, i.e., $X \sim N(0,1)$, $Y \sim N(0,1)$ and $\rho(X,Y)=-0.72$. Calculate $E[3X+Y|X-Y=1]$ 
+- Suppose the current price of a stock \$100. The price has probability 70% of increasing to \$110 and probability 30% of declining to \$90 in one year. Assume the risk-free rate is 5%. Calculate the value of a call option struck at \$100 that matures in one year to four decimal places. 
+- There are $3$ random variables $X, Y$ and $Z$. The correlation between $X$ and $Y$ is $0.8$ and correlation between $X$ and $Z$ is $0.5$. Calculate the minimum correlation between $Y$ and $Z$, to four decimal places.
+ 
+2. [Market report]()
+
+3. **Data Incubator Questions (Section 2)**:
+  - Download the jupyter notebook [here](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly. [Solution 2]()
+  
+
 ### 2019-03-29
 1. **Quant Interview Questions**
 - What is the probability of a flush in Poker (i.e. All $5$ cards have the same suit)?
@@ -21,7 +33,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 2. [Market report](https://drive.google.com/open?id=1Epj5Wh4SgM3Qh0xw1Pm2R20XjvbewRl9)
 
 3. **Data Incubator Questions (Section 1)**:
-  - Download the jupyter notebook [here](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly. [Solution](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/Section%201%20-%20The%20New%20York%20City%20Fire%20Department%20Solutions.ipynb)
+  - Download the jupyter notebook [here](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly. [Solution 1](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/Section%201%20-%20The%20New%20York%20City%20Fire%20Department%20Solutions.ipynb)
 
 
 ### 2019-03-22
