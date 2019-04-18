@@ -14,7 +14,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### 2019-04-19
 1. **Quant Interview Questions**
-- I guessed $3$ natural numbers - $x,y,z$. You can ask me $2$ sums of these numbers with any integer coefficients - $(a,b,c)$. That is, you give me $a, b$ and $c$ and I tell you the result of the expression $a*x+b*y+c*z$. Seeing the answer, you then give me the $2$-nd triplet of $(a,b,c)$ and I will tell $a*x+b*y+c*z$. Give me the algorithm to find $x,y$ and $z$.
+- I guessed $3$ natural numbers - $x,y,z$. You can ask me $2$ sums of these numbers with any integer coefficients - $(a,b,c)$. That is, you give me $a, b, \textrm{and } c$ and I tell you the result of the expression $ax+by+cz$. Seeing the answer, you then give me the $2$-nd triplet of $(a,b,c)$ and I will tell $ax+by+cz$. Give me the algorithm to find $x,y$ and $z$.
  
 2. [Market report]()
 
