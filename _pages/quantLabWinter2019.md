@@ -12,6 +12,19 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
 
+### 2019-04-19
+1. **Quant Interview Questions**
+- Let 
+ 
+2. [Market report]()
+
+3. **Jane Street Puzzle April 2019**:
+  - [Intro to Sudoku](https://www.sudokukingdom.com/very-easy-sudoku.php)
+  - Jane Street puzzle [link](https://www.janestreet.com/puzzles/current-puzzle/)
+  - Download the python file [here](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z)
+  - [Solution]()
+
+
 ### 2019-04-05
 1. **Quant Interview Questions**
 - Let $X$ and $Y$ be two standard independent normal variables, i.e., $X \sim N(0,1)$, $Y \sim N(0,1)$ and $\rho(X,Y)=-0.72$. Calculate $E[3X+Y \vert X-Y=1]$ 
