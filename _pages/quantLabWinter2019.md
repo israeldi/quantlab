@@ -14,14 +14,14 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### 2019-04-19
 1. **Quant Interview Questions**
-- Let 
+- I guessed $3$ natural numbers - $x,y,z$. You can ask me $2$ sums of these numbers with any integer coefficients - $(a,b,c)$. That is, you give me $a, b$ and $c$ and I tell you the result of the expression $a*x+b*y+c*z$. Seeing the answer, you then give me the $2$-nd triplet of $(a,b,c)$ & I will tell $a*x+b*y+c*z$. Give me the algorithm to find $x,y$ and $z$.
  
 2. [Market report]()
 
 3. **Jane Street Puzzle April 2019**:
-  - [Intro to Sudoku](https://www.sudokukingdom.com/very-easy-sudoku.php)
-  - Jane Street puzzle [link](https://www.janestreet.com/puzzles/current-puzzle/)
-  - Download the python file [here](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z)
+  - What is Sudoku? Let's walk through a brief [intro](https://www.sudokukingdom.com/very-easy-sudoku.php)
+  - Check out the Jane Street puzzle [here](https://www.janestreet.com/puzzles/current-puzzle/)
+  - Download the python file for Sudoku solver [here](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z) 
   - [Solution]()
 
 
