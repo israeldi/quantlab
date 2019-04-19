@@ -10,7 +10,6 @@ sidebar:
 ---
 Here you can access most of the files used by this site through Google Drive Folder:
 
--[Files](https://drive.google.com/drive/folders/19hQyAzBkHvhB16H9dMe6wvxWwENJ-AMx?usp=sharing)
 <iframe src="https://drive.google.com/embeddedfolderview?id=19hQyAzBkHvhB16H9dMe6wvxWwENJ-AMx#list" style="width:100%; height:600px; border:0;"></iframe>
 
 {% if page.comments %}
