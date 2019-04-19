@@ -19,9 +19,9 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 2. [Market report](https://drive.google.com/open?id=1o8PeSkgVwssWBqNZ2EJE6kacm9znOFfn)
 
 3. **Jane Street Puzzle April 2019**:
-  - What is Sudoku? Let's walk through a brief [intro](https://www.sudokukingdom.com/very-easy-sudoku.php)
-  - Check out the Jane Street puzzle [here](https://www.janestreet.com/puzzles/current-puzzle/)
-  - Download the python file for Sudoku solver [here](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z), [Solution]()
+  - What is Sudoku? Let's walk through a brief [Sudoku Intro](https://www.sudokukingdom.com/very-easy-sudoku.php)
+  - Check out the [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/)
+  - Download the python file for Sudoku solver [sudoku.py](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z), [Sudoku Solution]()
   - Below you can find a good explanation of this algorithm!
 {% include video id="JzONv5kaPJM" provider="youtube" %}
 
@@ -35,7 +35,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 2. [Market report](https://drive.google.com/file/d/0B1TpyFCyvQuGX3BHRnNkNS0tNWFIWEJiRHRCQXY4R3lfNkF3/view?usp=sharing)
 
 3. **Data Incubator Questions (Section 2)**:
-  - Download the jupyter notebook [here](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly. [Solution 2]()
+  - Download the jupyter notebook [Data Incubator 2](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly. [Solution 2]()
   
 
 ### 2019-03-29
@@ -47,7 +47,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 2. [Market report](https://drive.google.com/open?id=1Epj5Wh4SgM3Qh0xw1Pm2R20XjvbewRl9)
 
 3. **Data Incubator Questions (Section 1)**:
-  - Download the jupyter notebook [here](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly. [Solution 1](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/Section%201%20-%20The%20New%20York%20City%20Fire%20Department%20Solutions.ipynb)
+  - Download the jupyter notebook [Data Incubator 1](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly. [Solution 1](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/Section%201%20-%20The%20New%20York%20City%20Fire%20Department%20Solutions.ipynb)
 
 
 ### 2019-03-22
@@ -60,7 +60,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 3. Finish SQL exercises from last week:
   - SQL lecture [presentation](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html) from Stats 506
-  - SQL [Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
+  - [SQL Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [SQL Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
 
 
 ### 2019-03-15
@@ -73,8 +73,8 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 - Let $X_t$ be the price of a share of IBM stock, $t$ years from the present. Assume that $X_t$ follows a geometric Brownian motion with parameters, $r = 0.05$, $\sigma = 0.3$, and $X_0 = 100$. Find $P(X_t < 50)$ one year from now?
 
 3. **Introduction to SQL**
-  - SQL lecture [presentation](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html) from Stats 506
-  - SQL [Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
+  - [SQL lecture](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html) from Stats 506
+  - [SQL Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [SQL Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
 
 ### 2019-02-22
 1. Warmup problem(s):
