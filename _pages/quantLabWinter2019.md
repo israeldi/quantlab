@@ -19,9 +19,9 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 2. [Market report](https://drive.google.com/open?id=1o8PeSkgVwssWBqNZ2EJE6kacm9znOFfn)
 
 3. **Jane Street Puzzle April 2019**:
-  - What is Sudoku? Let's walk through a brief [Sudoku Intro](https://www.sudokukingdom.com/very-easy-sudoku.php)
+  - What is Sudoku? Let's walk through a brief [Intro](https://www.sudokukingdom.com/very-easy-sudoku.php)
   - Check out the [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/)
-  - Download the python file for Sudoku solver [sudoku.py](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z), [Sudoku Solution]()
+  - Download the python file for Sudoku solver [sudoku.py](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z), [Solution]()
   - Below you can find a good explanation of this algorithm!
 {% include video id="JzONv5kaPJM" provider="youtube" %}
 
@@ -38,7 +38,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
   - Download the jupyter notebook [Data Incubator 2](https://nbviewer.jupyter.org/github/israeldi/friday-workshop/blob/master/files/Data%20Incubator/data_incubator_challenge.ipynb) and answer the questions accordingly. [Solution 2]()
   
 
-### 2019-03-29
+### 2019-03-29 
 1. **Quant Interview Questions**
 - What is the probability of a flush in Poker (i.e. All $5$ cards have the same suit)?
 - A company hosts a dinner for mothers with at least one son. If Mrs. Tang  has two children, what is the probability that she has two boys?
@@ -60,7 +60,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 3. Finish SQL exercises from last week:
   - SQL lecture [presentation](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html) from Stats 506
-  - [SQL Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [SQL Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
+  - [SQL Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
 
 
 ### 2019-03-15
@@ -74,7 +74,7 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 3. **Introduction to SQL**
   - [SQL lecture](https://jbhender.github.io/Stats506/F18/Intro_to_SQL.html) from Stats 506
-  - [SQL Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [SQL Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
+  - [SQL Exercises](https://drive.google.com/file/d/17wOqwUBZIrp_CuQEEcnGBUI8gP7nAlwB/view?usp=sharing), [Solutions](https://drive.google.com/open?id=1uk8tcs-4t2zkifx7v9cVszXZTkKTwqlU)
 
 ### 2019-02-22
 1. Warmup problem(s):
