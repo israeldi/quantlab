@@ -23,6 +23,8 @@ For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
   - Check out the Jane Street puzzle [here](https://www.janestreet.com/puzzles/current-puzzle/)
   - Download the python file for Sudoku solver [here](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z) 
   - [Solution]()
+  - Below you can find a good explanation of this algorithm!
+{% include video id="JzONv5kaPJM" provider="youtube" %}
 
 
 ### 2019-04-05
