@@ -3,10 +3,12 @@
   
 # Prints entire grid, with two dimensional array as input
 def print_grid(arr): 
-    '''
-    Your Code Here
     
-    '''
+    for i in range(9):
+        print(''.join(str(i) for i in arr[i]))
+        if (i + 1) % 3 == 0:
+            print("\n")
+    
 
        
 # Function to Find the entry in the Grid that is still not used 
@@ -20,33 +22,27 @@ def find_empty_location(arr, l):
     # Check for the first zero entry and assign the corresponding
     # row, column indices to l, i.e. l[0] = firsZerorow, l[1] = firstZerocol.
     
-    '''
-    Your Code Here
-    
-    '''
-
-    
-    # Return False if there are no non-zero entries
+    for row in range(9):
+        for col in range(9):
+            if arr[row][col] == 0:
+                l[0], l[1] = row, col
+                return True
     return False
   
 # Returns a boolean which indicates whether any assigned entry 
 # in the specified row matches the given number. 
 def used_in_row(arr, row, num): 
     for i in range(9): 
-        '''
-        Your Code Here
-        
-        '''
+        if (arr[row][i] == num):
+            return True
     return False
   
 # Returns a boolean which indicates whether any assigned entry 
 # in the specified column matches the given number. 
 def used_in_col(arr,col,num): 
-    for i in range(9): 
-        '''
-        Your Code Here
-        
-        '''
+    for i in range(9):  
+        if (arr[i][col] == num):
+            return True
     return False
   
 # Returns a boolean which indicates whether any assigned entry 
@@ -67,10 +63,7 @@ def check_location_is_safe(arr,row,col,num):
       
     # Check if 'num' is not already placed in current row, 
     # current column and current 3x3 box 
-    '''
-    Your Code Here
-            
-    '''
+    return not used_in_row(arr,row,num) and not used_incol(arr, col, num) and not used_in_box(arr, row - row%3, col -col%3, num)
   
 # Takes a partially filled-in grid and attempts to assign values to 
 # all unassigned locations in such a way to meet the requirements 
@@ -105,7 +98,7 @@ if __name__=="__main__":
       
     # assigning values to the grid 
     
-    grid=[[0,0,0, 0,0,0, 0,0,0], 
+    grid=[[1,0,0, 0,0,0, 0,0,0], 
           [0,0,0, 0,0,0, 0,0,0], 
           [0,0,0, 0,0,0, 0,0,0], 
           
@@ -118,10 +111,13 @@ if __name__=="__main__":
           [0,0,0, 0,0,0, 0,0,0]] 
        
     # if sucess print the grid 
-    if(solve_sudoku(grid)): 
-        print_grid(grid)
+    # if(solve_sudoku(grid)): 
+    #    print_grid(grid)
                 
-    else: 
-        print("No solution exists")
+    #else: 
+    #    print("No solution exists")
+    row = 0
+    num = 2
+    print(used_in_row(grid, row, num))
         
         
