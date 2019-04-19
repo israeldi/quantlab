@@ -2,7 +2,7 @@
 layout: single
 title: "Files"
 permalink: /files/
-comments: true
+comments: false
 author_profile: false
 toc: true
 sidebar:
