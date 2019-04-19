@@ -2,7 +2,7 @@
 layout: single
 title: "Tutorial for Building your Own Site"
 permalink: /web_kit/
-comments: true
+comments: false
 author_profile: false
 toc: true
 sidebar:

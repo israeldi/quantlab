@@ -2,7 +2,7 @@
 layout: single
 title: "Michigan Quant Lab"
 permalink: /quantLabWinter2019/
-comments: true
+comments: false
 author_profile: false
 toc: true
 sidebar:

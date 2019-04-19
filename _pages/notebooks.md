@@ -2,21 +2,15 @@
 layout: single
 title: "Jupyter Notebooks"
 permalink: /notebooks/
-comments: true
+comments: false
 author_profile: false
-toc: true
+toc: false
 sidebar:
     nav: "docs"
 ---
 You can find some notebooks here from previous workshops:
 
-- [Building a complete risk-free yield curve](./Building a complete risk-free yield curve.ipynb)
-- [Building a yield curve (short end)-template](./Building a yield curve (short end)-template.ipynb)
-- [Building a yield curve (short end)](./Building a yield curve (short end).ipynb)
-- [FX Data](/FX Data .ipynb)
-- [Intro to quandl and iexfinance-template](./Intro to quandl and iexfinance-template.ipynb)
-- [Intro to quandl and iexfinance](./Intro to quandl and iexfinance.ipynb)
-- [Times table on a circle](./Times table on a circle.ipynb)
+<iframe src="https://drive.google.com/embeddedfolderview?id=1ZomC2pPevSqfRPaFAvO7PB6AL1F6fYya#list" style="width:100%; height:600px; border:0;"></iframe>
 
 {% if page.comments %}
 <div id="disqus_thread"></div>

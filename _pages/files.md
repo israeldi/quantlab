@@ -4,7 +4,7 @@ title: "Files"
 permalink: /files/
 comments: false
 author_profile: false
-toc: true
+toc: false
 sidebar:
     nav: "docs"
 ---

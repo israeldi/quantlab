@@ -2,7 +2,7 @@
 layout: single
 title: "Fermi Problems"
 permalink: /fermi/
-comments: true
+comments: false
 author_profile: false
 toc: true
 sidebar:

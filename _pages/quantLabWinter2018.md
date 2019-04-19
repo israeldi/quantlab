@@ -2,7 +2,7 @@
 layout: single
 title: "Winter 2018"
 permalink: /quantLabWinter2018/
-comments: true
+comments: false
 author_profile: false
 toc: true
 sidebar:

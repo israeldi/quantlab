@@ -2,7 +2,7 @@
 layout: single
 title: "Github"
 permalink: /github/
-comments: true
+comments: false
 author_profile: false
 toc: true
 sidebar:
