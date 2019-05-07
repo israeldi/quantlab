@@ -8,7 +8,7 @@ toc: true
 sidebar:
     nav: "docs"
 ---
-For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
+For Fall 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
 
 ### Meeting agenda
 
