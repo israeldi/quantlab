@@ -5,7 +5,7 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/blockM.jpg
 excerpt: "Workshop Home Page"
 intro: 
@@ -14,8 +14,8 @@ feature_row:
   - image_path: assets/images/weiser.jpg
     alt: "placeholder image 1"
     title: "Quant Lab Agenda"
-    excerpt: "Winter 2019 Friday-Workshops."
-    url: "https://israeldi.github.io/friday-workshop/quantLabWinter2019/"
+    excerpt: "Fall 2019 Friday-Workshops."
+    url: "https://israeldi.github.io/friday-workshop/quantLabFall2019/"
   - image_path: /assets/images/job_search.jpg
     alt: "placeholder image 2"
     title: "Jobs and Internships"

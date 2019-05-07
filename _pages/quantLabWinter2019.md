@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Michigan Quant Lab"
+title: "Winter 2019"
 permalink: /quantLabWinter2019/
 comments: false
 author_profile: false
@@ -8,8 +8,6 @@ toc: true
 sidebar:
     nav: "docs"
 ---
-For Winter 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
-
 ### Meeting agenda
 
 ### 2019-04-19
