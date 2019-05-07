@@ -18,6 +18,8 @@ main:
 docs:
   - title: '2019'
     children:
+      - title: "Fall Semester"
+        url: /quantLabFall2019/
       - title: "Winter Semester"
         url: /quantLabWinter2019/
 
