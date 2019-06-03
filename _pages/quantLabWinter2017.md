@@ -86,7 +86,7 @@ To prepare:
 
 5. We discovered that our C++ code for Monte Carlo does not react gracefully to an invalid name for a MarketFactor ("APL" is unknown). A better way to deal with this is through [exceptions](http://stackoverflow.com/questions/8480640/how-to-throw-a-c-exception).
 
-6. Carlo Acerbi of MSCI presented on [Backtesting expected shortfall](../files/GeneralPropertiesOfBacktestableStatistics.pdf).
+6. Carlo Acerbi of MSCI presented on [Backtesting expected shortfall](../files/Readings/GeneralPropertiesOfBacktestableStatistics.pdf).
 
 {% if page.comments %}
 <div id="disqus_thread"></div>

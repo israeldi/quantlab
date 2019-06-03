@@ -14,7 +14,7 @@ sidebar:
 
 1. [Fermi Question](../fermi)
 
-2. SecurityManager, a simple Java8 app. Requires [bonds.txt](../bonds.txt)
+2. SecurityManager, a simple Java8 app. Requires [bonds.txt](../data/bonds.txt)
 
 
 ### Mar 23, 2018
@@ -90,16 +90,16 @@ sidebar:
 
 1. Warmup: [Project Euler problem 50](https://projecteuler.net/problem=50). Solution is [here](https://github.com/pbenson/Quant-python/tree/master/ProjectEuler).
 
-2. Recall the problem from last time: We built a simulation of $n$ correlated assets, and via [Monte Carlo simulation in Python](https://github.com/pbenson/Quant-python/tree/master/SharedCorrelation), we found an empirical distribution of the number of assets that had negative return. Why is the number of assets that have positive return uniformly distributed? Try to figure it out on your own. But if you must, solution is [here](../files/rmj4q05.pdf), starting on page 3.
+2. Recall the problem from last time: We built a simulation of $n$ correlated assets, and via [Monte Carlo simulation in Python](https://github.com/pbenson/Quant-python/tree/master/SharedCorrelation), we found an empirical distribution of the number of assets that had negative return. Why is the number of assets that have positive return uniformly distributed? Try to figure it out on your own. But if you must, solution is [here](../files/Readings/risk_metrics_journal.pdf), starting on page 3.
 
 3. Market Report.
 
 
 ### Jan 5, 2018
 
-1. Wrap up Python implementation of the bag with 3 red, and 3 black marbles (see [previous week](../BlackRedMarbleSDP.JPG)). How big can you scale up your solver?
+1. Wrap up Python implementation of the bag with 3 red, and 3 black marbles (see [previous week](../files/images/BlackRedMarbleSDP.JPG)). How big can you scale up your solver?
 
-2. Student presentation: Solution to the [minmax correlation problem from Jane Street](../JaneStreetCorrelationProblem.JPG)? Solutions presented by Patrick Lu and Jiahua Gu.
+2. Student presentation: Solution to the [minmax correlation problem from Jane Street](../files/Jane Street Puzzles/JaneStreetCorrelationProblem.JPG)? Solutions presented by Patrick Lu and Jiahua Gu.
 
 3. Consider problem 5.2 from the [Quant Technical Interview Questions](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). We built a simulation of n correlated assets, and via Monte Carlo simulation in Python, we found an empirical distribution of the number of assets that had negative return. Challenge for next time: explain the distribution for the case where pairwise asset correlation is 0.5.
 
