@@ -15,7 +15,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Quant Lab Agenda"
     excerpt: "Fall 2019 Friday-Workshops."
-    url: "https://israeldi.github.io/friday-workshop/quantLabFall2019/"
+    url: "https://israeldi.github.io/quantlab/quantLabFall2019/"
   - image_path: /assets/images/job_search.jpg
     alt: "placeholder image 2"
     title: "Jobs and Internships"
