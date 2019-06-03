@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/israeldi/friday-workshop.svg?branch=master)](https://travis-ci.org/israeldi/friday-workshop)
+[![Build Status](https://travis-ci.org/israeldi/friday-workshop.svg?branch=master)](https://travis-ci.org/israeldi/quantlab)
 
 ## University of Michigan - Quantitative Finance and Risk Management
 Workshop Home Page
