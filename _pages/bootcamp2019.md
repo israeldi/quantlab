@@ -32,17 +32,17 @@ sidebar:
 
 
 ### Day 3
-1. warmup: individually, solve interview problem 8.6 (the clock problem). In informal teams, work on interview problem 8.5 (the 7 boxes problem).
+1. warmup: individually, solve [interview problem 8.6 (the clock problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). In informal teams, work on [interview problem 8.5 (the 7 boxes problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 2. Python applied to interview questions
     - As before, we will start with a stubbed notebook, python-interview-notebook-empty.ipynb. Save it in your Quant-python directory.
-    - Solve interview problems 1.1, 3.1, 3.8, 3.10, 3.11
+    - Solve interview problems [1.1, 3.1, 3.8, 3.10, 3.11](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)
     - commit your work via GitHub Desktop, and sync. Add a link to the notebook from your GitHub home page.
 
 
 ### Day 4
-1. warmup: individually, solve interview problem 1.11.
+1. warmup: individually, solve interview problem [1.11](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 2. In `python-interview-notebook.ipynb`, simulate the two coins problem, plot the distribution of winnings, and compute the mean.
-3. warmup: In informal teams, work on interview problem 3.12 (flipping two coins problem).
+3. warmup: In informal teams, work on [interview problem 3.12 (flipping two coins problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 4. Create a GitHub repo called cv. Add your resume to it, including a pdf version. We will look at two ways to create a link from your U of M site to your resume, using GitHub Pages, and RawGit. The important thing is that whatever method you use, your URL should take you directly to the pdf of your resume, so that we can reliably retrieve your resume via a script.
 5. Discuss the Princeton Quant Trading Conference in Chicago on Oct 23rd.
 6. Introduction to modeling market risk.
@@ -60,8 +60,8 @@ sidebar:
 
 
 ### Day 6
-1. warmup: individually, solve interview problem 3.4. Compare your answer with others.
-1. warmup: In informal teams, work on interview problem 3.14 (the Monte Hall problem).
+1. warmup: individually, solve [interview problem 3.4](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
+1. warmup: In informal teams, work on [interview problem 3.14 (the Monte Hall problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 3. Class discussion: Russell 3000 covariance matrix.
 4. Back to modeling market risk.
   Simulation of 3 stocks (AMZN, GOOG, and AAPL)
@@ -75,9 +75,9 @@ sidebar:
 
 ### Last day of boot camp!
 1. The Day 6 work (ThreeStockMonteCarlo) is available for download from GitHub.
-2. warmup: individually, solve interview problem 1.7. Compare your answer with others.
+2. warmup: [individually, solve interview problem 1.7](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
 3. warmup: In informal teams, work on interview problem 8.12 (37 racehorses).
-4. Discussion: what is your best solution to interview problem 8.15 (the dark and rainy night, looking for a road)?
+4. Discussion: what is your best solution to [interview problem 8.15 (the dark and rainy night, looking for a road)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)?
 5. Complete 3-stock simulation.
   - Python: Add log returns to price series.
   - Discussion: Multi-factor simulation, and EWMA.
