@@ -1,4 +1,5 @@
-{% if site.comments.disqus.shortname %}
+{% if page.comments %}
+<div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
       this.page.url = "{{ page.url | absolute_url }}";  // Replace PAGE_URL with your page's canonical URL variable
@@ -6,7 +7,7 @@
     };
     (function() { // DON'T EDIT BELOW THIS LINE
       var d = document, s = d.createElement('script');
-      s.src = 'https://{{ site.comments.disqus.shortname }}.disqus.com/embed.js';
+      s.src = 'https://israeldi.disqus.com/embed.js';
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
     })();
