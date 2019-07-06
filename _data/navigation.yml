@@ -63,4 +63,6 @@ docs:
     children:
       - title: "Jupyter Notebooks"
         url: /notebooks/
+        - title: "Bootcamp 2019"
+        url: /bootcamp2019/
 

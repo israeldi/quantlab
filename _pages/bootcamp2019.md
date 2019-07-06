@@ -2,7 +2,7 @@
 layout: single
 title: "Winter 2019"
 permalink: /bootcamp2019/
-comments: true
+comments: false
 author_profile: false
 toc: true
 sidebar:
