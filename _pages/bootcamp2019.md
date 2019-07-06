@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Winter 2019"
+title: "Bootcamp 2019"
 permalink: /bootcamp2019/
 comments: false
 author_profile: false
@@ -8,9 +8,9 @@ toc: true
 sidebar:
     nav: "docs"
 ---
-### Meeting agenda
+### Bootcamp agenda
 
-### 2019-04-19
+### Day 1
 1. **Quant Interview Questions**
 - I guessed $3$ natural numbers - $x,y,z$. You can ask me $2$ sums of these numbers with any integer coefficients - $(a,b,c)$. That is, you give me $a, b, \textrm{and } c$ and I tell you the result of the expression $ax+by+cz$. Seeing the answer, you then give me the $2$-nd triplet of $(a,b,c)$ and I will tell you $ax+by+cz$. Give me an algorithm to find $x,y$ and $z$.
  
@@ -22,3 +22,17 @@ sidebar:
   - Download the python file for Sudoku solver [sudoku.py](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z), [Solution]()
   - Below you can find a good explanation of this algorithm!
 {% include video id="JzONv5kaPJM" provider="youtube" %}
+
+### Day 2
+
+
+### Day 3
+
+
+### Day 4
+
+
+### Day 5
+
+
+### Day 6
