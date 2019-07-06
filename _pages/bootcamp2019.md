@@ -8,6 +8,11 @@ toc: true
 sidebar:
     nav: "docs"
 ---
+
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style>
+
 ### Bootcamp agenda
 
 ### Day 1
