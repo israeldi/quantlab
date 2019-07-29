@@ -15,23 +15,51 @@ sidebar:
 
 ### Bootcamp agenda
 
-### Day 1
-1. **Quant Interview Questions**
-- I guessed $3$ natural numbers - $x,y,z$. You can ask me $2$ sums of these numbers with any integer coefficients - $(a,b,c)$. That is, you give me $a, b, \textrm{and } c$ and I tell you the result of the expression $ax+by+cz$. Seeing the answer, you then give me the $2$-nd triplet of $(a,b,c)$ and I will tell you $ax+by+cz$. Give me an algorithm to find $x,y$ and $z$.
- 
-2. [Market report](https://drive.google.com/open?id=1o8PeSkgVwssWBqNZ2EJE6kacm9znOFfn)
+#### Day 1 
+(2 hours) Technology Prep:
+Cloud Storages:
+1. Google Drive
+  - Unlimited Memory
+  - Access to account even after graduation
+  - Saves Memory on yoour Laptop/Desktop
+  - Access from anywhere
+  - File version history
+2. OneDrive
+  - Only up to 1 terabyte
+  - Not as good as Google Drive
+3. Dropbox
+4. Box
+5. Github
 
-3. **Jane Street Puzzle April 2019**:
-  - What is Sudoku? Let's walk through a brief [Intro](https://www.sudokukingdom.com/very-easy-sudoku.php)
-  - Check out the [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/)
-  - Download the python file for Sudoku solver [sudoku.py](https://drive.google.com/open?id=1cyvr1cDfU1_zix4gDvbHnors6Soxrk3z), [Solution]()
-  - Below you can find a good explanation of this algorithm!
+Office 365 account
+- Comes free as a student
+- Access to Microsoft Office 2016
+- Up to 1 terabyte memory
+
+Other Useful apps:
+- UMVPN
+- LastPass
+
+Statistical Software:
+1. Rstudio
+  - Open source
+  - Constantly managed
+  - No need for UM credentials
+2. Matlab
+  - Full access while you are a student
+3. Stata
+4. SAS
+
+- Below you can find a good explanation of this algorithm!
 {% include video id="JzONv5kaPJM" provider="youtube" %}
 
-### Day 2
+#### Day 2
+1. Option Pricing Discrete time
+2. Binomial Tree Model
 
-
-### Day 3
+#### Day 3
+1. Option Pricing Continuous Time Black Scholes
+2. Python with stochastic processes brownian motion
 1. warmup: individually, solve [interview problem 8.6 (the clock problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). In informal teams, work on [interview problem 8.5 (the 7 boxes problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 2. Python applied to interview questions
     - As before, we will start with a stubbed notebook, python-interview-notebook-empty.ipynb. Save it in your Quant-python directory.
@@ -39,7 +67,11 @@ sidebar:
     - commit your work via GitHub Desktop, and sync. Add a link to the notebook from your GitHub home page.
 
 
-### Day 4
+#### Day 4
+1. Rstudio, Matlab
+2. Markdown, building a website
+3. Interview tips
+
 1. warmup: individually, solve interview problem [1.11](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 2. In `python-interview-notebook.ipynb`, simulate the two coins problem, plot the distribution of winnings, and compute the mean.
 3. warmup: In informal teams, work on [interview problem 3.12 (flipping two coins problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
@@ -48,7 +80,9 @@ sidebar:
 6. Introduction to modeling market risk.
 
 
-### Day 5
+#### Day 5
+1. Company Reviews
+2. Vetting companies, and reviewing a Handshake/job fair company 
 1. warmup: individually, solve interview problem 1.9.
 2. warmup: In informal teams, work on interview problem 8.15 (the dark and rainy night, looking for a road).
 3. Create python-hackerrank-notebook.ipynb in your Quant-python repo, and solve the balanced brackets problem. Push your changes to your GitHub repo.
@@ -59,7 +93,9 @@ sidebar:
     - Begin simulation of 3 stocks (AMZN, GOOG, and AAPL).
 
 
-### Day 6
+#### Day 6
+1. Job Applications
+
 1. warmup: individually, solve [interview problem 3.4](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
 1. warmup: In informal teams, work on [interview problem 3.14 (the Monte Hall problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 3. Class discussion: Russell 3000 covariance matrix.
@@ -72,8 +108,6 @@ sidebar:
     - Class discussion: How Monte Carlo (simulation of returns) is done using the RiskMetrics model.
     - Begin building simulation of the 3 stocks in Python.
 
-
-### Last day of boot camp!
 1. The Day 6 work (ThreeStockMonteCarlo) is available for download from GitHub.
 2. warmup: [individually, solve interview problem 1.7](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
 3. warmup: In informal teams, work on interview problem 8.12 (37 racehorses).
