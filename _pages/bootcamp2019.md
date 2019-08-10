@@ -15,8 +15,8 @@ sidebar:
 
 ### Bootcamp agenda
 
-#### Day 1 
-(2 hours) Technology Prep:
+#### Day 1 (2 hours)
+Technology Prep:
 Cloud Storages:
 1. Google Drive
   - Unlimited Memory
