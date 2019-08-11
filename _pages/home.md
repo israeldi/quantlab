@@ -27,7 +27,9 @@ feature_row:
     url: "https://pbenson.github.io/bootcamp/"
 ---
 
-{% include feature_row id="intro" type="center" height=200 %}
+{% include feature_row id="intro" type="center" height=400 %}
+
+{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
