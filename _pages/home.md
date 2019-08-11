@@ -29,7 +29,7 @@ feature_row:
     height: 200
 ---
 
-{% include feature_row id="intro" type="center" height=800 %}
+{% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
 
