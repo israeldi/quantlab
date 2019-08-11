@@ -15,18 +15,15 @@ feature_row:
     title: "Quant Lab Agenda"
     excerpt: "Fall 2019 Friday-Workshops."
     url: "https://israeldi.github.io/quantlab/quantLabFall2019/"
-    height: 200
   - image_path: /assets/images/job_search.jpg
     alt: "placeholder image 2"
     title: "Jobs and Internships"
     excerpt: "Resources for researching jobs and internships (From Pete's Page)."
     url: "https://pbenson.github.io"
-    height: 200
   - image_path: /assets/images/bootcamp.jpg
     title: "Summer Bootcamp"
     excerpt: "2018 Summer Bootcamp (From Pete's Page)."
     url: "https://pbenson.github.io/bootcamp/"
-    height: 200
 ---
 
 {% include feature_row id="intro" type="center" %}
