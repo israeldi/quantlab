@@ -26,7 +26,7 @@ Cloud Storages give you the ability to access and sync your files from anywhere.
   - Saves Memory on yoour Laptop/Desktop
   - Access from anywhere
   - File version history
-2. Download [OneDrive](https://onedrive.live.com/about/en-US/download/) (Ok option, but not recommended in the long-run.)
+2. Download [OneDrive](https://onedrive.live.com/about/en-US/download/) (Ok option, but not recommended in the long-run).
   - Only up to 1 terabyte of Memory
   - Not as good as Google Drive
   - Pairs well with Microsoft Office
@@ -70,7 +70,7 @@ Great for finding Job Opportunities exclusive to U of M students.
 - Create [Handshake](https://joinhandshake.com) account
   
 #### Build Website
-Visit [Website Tutorial](./quantlab/web_kit/) from Quant Lab. 
+Visit [Website Tutorial](../web_kit/) from Quant Lab. 
 
 ### Day 2 (6 hours)
 1. Option Pricing Discrete time
@@ -117,20 +117,19 @@ Visit [Website Tutorial](./quantlab/web_kit/) from Quant Lab.
 2. **Interview Questions**
   - Warm-up: individually, solve [interview problem 3.4](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
   - Warm-up: In informal teams, work on [interview problem 8.12 (37 racehorses)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+  - Warm-up: [individually, solve interview problem 1.7](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
+4. Complete 3-stock simulation.
 3. Class discussion: Russell 3000 covariance matrix.
 4. Back to modeling market risk.
-  Simulation of 3 stocks (AMZN, GOOG, and AAPL)
+**Part 1**
+  Simulation of 3 stocks (AMZN, GOOG, and AAPL) available for download from GitHub.
     - Create a CSV or tab-delimited file similar to your Amazon file, but add  columns for the closing prices of Google and Apple.
     - In Python, create a PriceSeries class.
     - In Python, figure out how to read the prices from your file, and create PriceSeries objects for each of the three stocks.
     - Modify your PriceSeries class so that it also caches the log returns.
     - Class discussion: How Monte Carlo (simulation of returns) is done using the RiskMetrics model.
     - Begin building simulation of the 3 stocks in Python.
-
-1. The Day 6 work (ThreeStockMonteCarlo) is available for download from GitHub.
-2. **Interview Questions**
-  - Warm=up: [individually, solve interview problem 1.7](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
-4. Complete 3-stock simulation.
+**Part 2**
   - Python: Add log returns to price series.
   - Discussion: Multi-factor simulation, and EWMA.
   - Python: Create Scenario class that contains weights for returns.
