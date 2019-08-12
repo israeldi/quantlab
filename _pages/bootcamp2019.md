@@ -123,13 +123,13 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 4. Back to modeling market risk.
 
 **Part 1**
-    - Simulation of 3 stocks (AMZN, GOOG, and AAPL) available for download from GitHub.
-    - Create a CSV or tab-delimited file similar to your Amazon file, but add  columns for the closing prices of Google and Apple.
-    - In Python, create a PriceSeries class.
-    - In Python, figure out how to read the prices from your file, and create PriceSeries objects for each of the three stocks.
-    - Modify your PriceSeries class so that it also caches the log returns.
-    - Class discussion: How Monte Carlo (simulation of returns) is done using the RiskMetrics model.
-    - Begin building simulation of the 3 stocks in Python.
+  - Simulation of 3 stocks (AMZN, GOOG, and AAPL) available for download from GitHub.
+  - Create a CSV or tab-delimited file similar to your Amazon file, but add  columns for the closing prices of Google and Apple.
+  - In Python, create a PriceSeries class.
+  - In Python, figure out how to read the prices from your file, and create PriceSeries objects for each of the three stocks.
+  - Modify your PriceSeries class so that it also caches the log returns.
+  - Class discussion: How Monte Carlo (simulation of returns) is done using the RiskMetrics model.
+  - Begin building simulation of the 3 stocks in Python.
 
 **Part 2**
   - Python: Add log returns to price series.
