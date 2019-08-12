@@ -20,7 +20,7 @@ Here are my highly-recommended Desktop Applications for students.
 
 #### Cloud Storages:
 Cloud Storages give you the ability to access and sync your files from anywhere. This is extremely convenient if you experience problems with youor own device. 
-1. Download [Google Drive](https://www.google.com/drive/download/)
+1. Download [Google Drive](https://www.google.com/drive/download/) (Drive File Stream)
   - Unlimited Memory
   - Access to google drive account even after graduation
   - Saves Memory on yoour Laptop/Desktop
