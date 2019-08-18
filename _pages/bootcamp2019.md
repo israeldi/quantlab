@@ -84,7 +84,7 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
   - Warm-up: In informal teams, work on [interview problem 8.5 (the 7 boxes problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
 2. Python applied to interview questions
     - As before, we will start with a stubbed notebook, `python-interview-notebook-empty.ipynb`. Save it in your Quant-python directory.
-    - Solve interview problems [1.1, 3.1, 3.8, 3.10, 3.11](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)
+    - Solve interview problems [1.1, 3.1, 3.5, 3.8, 3.10, 3.11, 3.12, 4.4, 5.10](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)
     - Commit your work via GitHub Desktop, and sync. Add a link to the notebook from your GitHub home page.
 
 
