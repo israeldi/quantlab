@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Program Description"
+    url: /program/
   - title: "LSA Math"
     url: https://lsa.umich.edu/math/graduates/quantitative-finance.html
   - title: "Github"
