@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="generator" content="MATLAB R2018a"><meta http-equiv="X-UA-Compatible" content="IE=edge,IE=9,chrome=1"><title>1.1 Repeating task n times</title><style type="text/css">
+* {margin: 0; padding: 0;}
+body {text-align: start; line-height: 17.234001159668px; min-height: 0px; white-space: normal; color: rgb(0, 0, 0); font-family: Menlo, Monaco, Consolas, 'Courier New', monospace; font-style: normal; font-size: 14px; font-weight: normal; text-decoration: none; white-space: normal; }
+h1, h2 {font-weight: normal;}
+.content { padding: 30px; }
+
+.S0 { margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S1 { text-align: left; line-height: 26.3999996185303px; min-height: 24px; white-space: pre-wrap; color: rgb(213, 80, 0); font-family: Helvetica, Arial, sans-serif; font-size: 22px; white-space: pre-wrap; margin-left: 4px; margin-top: 3px; margin-bottom: 15px; margin-right: 10px;  }
+.S2 { min-height: 0px; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S3 { font-weight: bold; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S4 { text-align: left; line-height: 21px; min-height: 17px; white-space: pre-wrap; font-family: Helvetica, Arial, sans-serif; white-space: pre-wrap; margin-left: 4px; margin-top: 2px; margin-bottom: 9px; margin-right: 10px;  }
+.S5 { text-align: left; line-height: 20.576000213623px; min-height: 20px; white-space: pre-wrap; color: rgb(60, 60, 60); font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold; white-space: pre-wrap; margin-left: 4px; margin-top: 15px; margin-bottom: 9px; margin-right: 10px;  }
+.S6 { font-family: Menlo, Monaco, Consolas, 'Courier New', monospace; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S7 { margin-left: 3px; margin-top: 10px; margin-bottom: 10px; margin-right: 3px;  }
+.S8 { min-height: 18px; white-space: nowrap; white-space: nowrap; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S9 { min-height: 0px; white-space: pre; white-space: pre; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S10 { color: rgb(34, 139, 34); margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S11 { color: rgb(0, 0, 255); margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S12 { color: rgb(160, 32, 240); margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S13 { text-align: left; line-height: 21px; min-height: 17px; white-space: pre-wrap; font-family: Helvetica, Arial, sans-serif; white-space: pre-wrap; margin-left: 4px; margin-top: 10px; margin-bottom: 9px; margin-right: 10px;  }
+
+.CodeBlock {margin: 10px 0 10px 0; background-color: #F7F7F7;}
+.CodeBlock+.paragraphNode {margin-top: 10px;}
+.lineNode {padding-left: 10px; border-left: 1px solid #E9E9E9; border-right: 1px solid #E9E9E9;}
+.inlineWrapper:first-child .lineNode,.inlineWrapper.outputs+.inlineWrapper .lineNode {padding-top: 5px; border-top: 1px solid #E9E9E9;}
+.inlineWrapper:last-child .lineNode,.inlineWrapper.outputs .lineNode {padding-bottom: 5px; border-bottom: 1px solid #E9E9E9;}
+.lineNode .textBox {white-space: pre;}
+</style></head><body><div class = "content"><div class = 'SectionBlock containment active'><h1 class = "S1"><span class = "S2"><span class="S3">1.1 Repeating task </span></span><span style="font-family: STIXGeneral, STIXGeneral-webfont, serif; font-style: italic; font-weight: normal;">n</span><span class = "S2"><span class="S3"> times</span></span></h1><div class = "S4"><span class = "S2"><span class="S0">If you know you need to repeat something a specific number of times, use the</span></span></div><h2 class = "S5"><span class = "S2"><span class="S6">1.1.1 for</span></span><span class = "S2"><span class="S0"> loop:</span></span></h2><div class = 'CodeBlock contiguous'><div class = 'inlineWrapper'><div class = "S8 lineNode"><span class = "S9"><span class="S10">% for loop to sum numbers 1 to 5</span></span></div></div><div class = 'inlineWrapper'><div class = "S8 lineNode"><span class = "S9"><span class="S0">sum_ = 0;</span></span></div></div><div class = 'inlineWrapper'><div class = "S8 lineNode"><span class = "S9"><span class="S0">n = 5;</span></span></div></div><div class = 'inlineWrapper'><div class = "S8 lineNode"><span class = "S9"><span class="S11">for </span><span class="S0">iter = 1:n</span></span></div></div><div class = 'inlineWrapper'><div class = "S8 lineNode"><span class = "S9"><span class="S0">    sum_ = sum_ + iter;</span></span></div></div><div class = 'inlineWrapper'><div class = "S8 lineNode"><span class = "S9"><span class="S11">end</span></span></div></div><div class = 'inlineWrapper'><div class = "S8 lineNode"><span class = "S9"><span class="S0"></span><span class="S0">fprintf(</span><span class="S12">'sum_ of 1 to %d is %d\n'</span><span class="S0">,n,sum_);</span></span></div></div></div><div class = "S13"><span class = "S2"><span class="S0"></span></span></div></div></div><br><!-- <br>##### SOURCE BEGIN #####<br>%% *1.1 Repeating task *$n$* times*<br>% If you know you need to repeat something a specific number of times, use the<br>%% |1.1.1 for| loop:<br><br>% for loop to sum numbers 1 to 5<br>sum_ = 0;<br>n = 5;<br>for iter = 1:n<br>    sum_ = sum_ + iter;<br>end<br>fprintf('sum_ of 1 to %d is %d\n',n,sum_);<br>%% <br>%<br>##### SOURCE END #####<br>--></body></html>

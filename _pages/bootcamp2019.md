@@ -33,6 +33,9 @@ Cloud Storages give you the ability to access and sync your files from anywhere.
 3. Others: Dropbox, Box
 5. Github
 
+### Virtual Sites
+Access a UM computer remotely right from your home computer! Follow these [instructions](https://documentation.its.umich.edu/node/312) to install and run. This can give you access to hundreds of applications for free including many listed below. 
+
 #### Office 365:
 Download [Office 365](https://www.microsoft.com/en-us/education/products/office)
 - Comes free as a umich student and still have access after graduation
