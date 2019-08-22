@@ -22,8 +22,8 @@ feature_row:
     url: "https://pbenson.github.io"
   - image_path: /assets/images/bootcamp.jpg
     title: "Summer Bootcamp"
-    excerpt: "2018 Summer Bootcamp (From Pete's Page)."
-    url: "https://pbenson.github.io/bootcamp/"
+    excerpt: "2019 Summer Bootcamp. You can also check out the [2018 Bootcamp](https://pbenson.github.io/bootcamp/)"
+    url: "/bootcamp2019/"
 ---
 
 {% include feature_row id="intro" type="center" %}
