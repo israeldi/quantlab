@@ -18,11 +18,6 @@ The coursework described below, which includes 24 credits of required courses an
 
 <img src="../assets/images/proposal_graphic.png" width="800px">
 
-1. The first sequence is devoted to introducing the main concepts of Financial Mathematics and modeling; (Math 573, Math 574)
-2. the second is devoted to building strong mathematical background in stochastic analysis; (Math 526, Math 506)
-3. the third focuses on numerical implementation of the mathematical methods presented in other sequences; (Math 623)
-4. the last sequence in statistics prepares the students for working with financial data. (Stats 509)
-
 Students will also be required to take 12 credits of electives which are offered by: 
   - Mathematics
   - Statistics
