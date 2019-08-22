@@ -16,7 +16,7 @@ sidebar:
 ## Coursework
 The coursework described below, which includes 24 credits of required courses and 12 credits of electives for a total of 36 credits, lays the foundation for a career as a quantitative analyst in a financial or other institution. These skills will be developed through 4 sequences of required core courses: 
 
-<img src="../assets/images/proposal_graphic.png" width="200px">
+<img src="../assets/images/proposal_graphic.png" width="800px">
 
 1. The first sequence is devoted to introducing the main concepts of Financial Mathematics and modeling; (Math 573, Math 574)
 2. the second is devoted to building strong mathematical background in stochastic analysis; (Math 526, Math 506)
