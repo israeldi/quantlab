@@ -92,7 +92,7 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 
 
 ### Day 4 (5 hours)
-1. Rstudio, Matlab
+1. Rstudio, [Matlab](../files/Bootcamp/Matlab_tutorial.html)
 2. Interview tips
 3. **Interview-Questions**
   - Warm-up: individually, solve interview problem [1.11](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
