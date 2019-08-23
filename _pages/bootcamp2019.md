@@ -15,7 +15,7 @@ sidebar:
 
 ## Bootcamp agenda
 
-### Day 1 (2 hours) Technology Bootcamp:
+### Day 1 (1.5 hours) Technology Bootcamp:
 Here are my highly-recommended Desktop Applications for students.
 
 #### Cloud Storages:
@@ -75,6 +75,8 @@ Great for finding Job Opportunities exclusive to U of M students.
   
 #### Build Website
 Visit [Website Tutorial](../web_kit/) from Quant Lab. 
+
+#### Interview Questions
 
 ### Day 2 (6 hours)
 1. Option Pricing Discrete time
