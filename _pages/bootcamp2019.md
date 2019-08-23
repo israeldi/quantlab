@@ -43,6 +43,7 @@ Download [Office 365](https://www.microsoft.com/en-us/education/products/office)
 - Can download Office on up to 5 devices
 
 #### Other Useful apps:
+- [Overleaf](https://www.overleaf.com?r=5047403b&rm=d&rs=b) for LaTex documents
 - Download [UM-VPN](https://its.umich.edu/enterprise/wifi-networks/vpn/getting-started)
 - Download [LastPass](https://lastpass.com/misc_download2.php) Password Manager
 - GoodNotes or Notability
