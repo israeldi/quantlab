@@ -79,8 +79,8 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 #### Interview Questions
 
 ### Day 2 (6 hours)
-1. Option Pricing Discrete time
-2. Binomial Tree Model
+1. Option Pricing Discrete time [[Lecture](../files/Bootcamp/Monday bootcamp 2019.pdf)]
+2. Binomial Tree Model [Notebook](../files/Bootcamp/discrete_finance_empty.ipynb)
 
 ### Day 3 (5.5 hours)
 1. Option Pricing Continuous Time Black Scholes
