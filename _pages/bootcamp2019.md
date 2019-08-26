@@ -80,7 +80,7 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 
 ### Day 2 (6 hours)
 1. Option Pricing Discrete time [[Lecture](../files/Bootcamp/Monday bootcamp 2019.pdf)]
-2. Binomial Tree Model [[Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Bootcamp/discrete_finance_empty.ipynb)]
+2. Binomial Tree Model [[Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Bootcamp/discrete_finance_empty.ipynb)] [[Solution](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Bootcamp/discrete_finance.ipynb)]
 
 ### Day 3 (5.5 hours)
 1. Option Pricing Continuous Time Black Scholes
