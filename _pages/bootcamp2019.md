@@ -90,7 +90,7 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 2. [Matlab Tutorial](../files/Bootcamp/Matlab_tutorial.html)
 3. Python applied to interview questions
     - We will start with a stubbed notebook, `[python-interview-empty.ipynb]()`.
-    - Solve interview problems [1.1, 3.1, 3.3, 3.5, 3.8, 3.10, 3.11, 3.12, 5.2, 5.10](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)
+    - Solve interview problems [1.1, 3.1, 3.3, 3.5, 3.8, 3.10, 3.11, 3.12, 3.14, 5.2, 5.10](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)
     - Commit your work via GitHub Desktop, and sync. Add a link to the notebook from your GitHub home page.
 
 
