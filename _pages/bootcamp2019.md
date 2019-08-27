@@ -90,20 +90,16 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 2. [Matlab Tutorial](../files/Bootcamp/Matlab_tutorial.html)
 3. Python applied to interview questions
     - We will start with a stubbed notebook, `[python-interview-empty.ipynb]()`.
-    - Solve interview problems [1.1, 3.1, 3.5, 3.8, 3.10, 3.11, 3.12, 4.4, 5.10](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)
+    - Solve interview problems [1.1, 3.1, 3.3, 3.5, 3.8, 3.10, 3.11, 3.12, 5.2, 5.10](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)
     - Commit your work via GitHub Desktop, and sync. Add a link to the notebook from your GitHub home page.
 
 
-### Day 4 (5 hours)
+### Day 4 (3.5 hours)
 1. Option Pricing Continuous Time Black Scholes
 2. Python with stochastic processes brownian motion
 3. Rstudio
-4. **Interview-Questions**
-  - Warm-up: individually, solve interview problem [1.11](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
-  - Warm-up: In informal teams, work on [interview problem 3.12 (flipping two coins problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
-5. In `python-interview-notebook.ipynb`, simulate the two coins problem, plot the distribution of winnings, and compute the mean.
-6. Discuss the [Princeton Quant Trading Conference](http://princetonquanttrading.org) in Chicago on November 2nd.
-7. Introduction to modeling market risk.
+4. Discuss the [Princeton Quant Trading Conference](http://princetonquanttrading.org) in Chicago on November 2nd.
+5. Introduction to modeling market risk.
 
 
 ### Day 5 (4.5 hours)
