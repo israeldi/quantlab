@@ -87,7 +87,7 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 1. **Interview Questions**
   - Warm-up: individually, solve [interview problem 8.6 (the clock problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). 
   - Warm-up: In informal teams, work on [interview problem 8.5 (the 7 boxes problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
-2. [Matlab Tutorial](../files/Bootcamp/Matlab_tutorial.html) [Matlab Notebook](../files/Bootcamp/Matlab_tutorial.mlx)
+2. [[Matlab Tutorial](../files/Bootcamp/Matlab_tutorial.html)] [[Matlab Notebook](../files/Bootcamp/Matlab_tutorial.mlx)]
 3. Python applied to interview questions
     - We will start with a stubbed notebook, [python-interview-empty.ipynb](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Bootcamp/python-interview-empty.ipynb).
     - Solve interview problems [1.1, 3.1, 3.3, 3.5, 3.8, 3.10, 3.11, 3.12, 3.14, 5.2, 5.10](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf)
