@@ -95,7 +95,7 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 
 
 ### Day 4 (3.5 hours)
-1. Option Pricing Continuous Time Black Scholes
+1. Option Pricing Continuous Time Black Scholes [[Lecture](../files/Bootcamp/Wednesday bootcamp 2019.pdf)]
 2. Python with stochastic processes brownian motion [[Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Bootcamp/continuous_finance_empty.ipynb)] [[Solution]()]
 3. Discuss the [Princeton Quant Trading Conference](http://princetonquanttrading.org) in Chicago on November 2nd.
 4. Introduction to modeling market risk.
