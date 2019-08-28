@@ -96,15 +96,15 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 
 ### Day 4 (3.5 hours)
 1. Option Pricing Continuous Time Black Scholes
-2. Python with stochastic processes brownian motion
-3. Rstudio
-4. Discuss the [Princeton Quant Trading Conference](http://princetonquanttrading.org) in Chicago on November 2nd.
-5. Introduction to modeling market risk.
+2. Python with stochastic processes brownian motion [[Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Bootcamp/continuous_finance_empty.ipynb)] [[Solution]()]
+3. Discuss the [Princeton Quant Trading Conference](http://princetonquanttrading.org) in Chicago on November 2nd.
+4. Introduction to modeling market risk.
 
 
 ### Day 5 (4.5 hours)
 1. Company Reviews
-2. Vetting companies, and reviewing a Handshake/job fair company 
+2. Vetting companies, and reviewing a Handshake/job fair company
+  - Rstudio
 3. **Interview Questions**
   - Warm-up: individually, solve [interview problem 1.9](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
   - Warm-up: In informal teams, work on [interview problem 8.15](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf) (the dark and rainy night, looking for a road).
