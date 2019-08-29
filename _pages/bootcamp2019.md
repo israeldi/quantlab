@@ -104,12 +104,18 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 ### Day 5 (4.5 hours)
 1. Company Reviews
 2. Vetting companies, and reviewing a Handshake/job fair company
-  - Rstudio
-3. **Interview Questions**
+3. Rstudio
+
+In order to enable LaTex in `.pdf` files:
+  - Download [[MikTex (Windows Users)](https://miktex.org/download)]
+  - Download [[MacTex (Mac Users)](http://www.tug.org/mactex/mactex-download.html)]
+
+Sample [Homeowrk](../files/Bootcamp/Stats500_Hw2.pdf) from Stats500.
+4. **Interview Questions**
   - Warm-up: individually, solve [interview problem 1.9](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
   - Warm-up: In informal teams, work on [interview problem 8.15](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf) (the dark and rainy night, looking for a road).
-4. Create `python-hackerrank-notebook.ipynb` in your Quant-python repo, and solve the balanced brackets problem. Push your changes to your GitHub repo.
-5. Continuing to modeling market risk.
+5. Create `python-hackerrank-notebook.ipynb` in your Quant-python repo, and solve the balanced brackets problem. Push your changes to your GitHub repo.
+6. Continuing to modeling market risk.
   - Create a portfolio of 100 shares of AMZN stock, and compute 5%-quantile VaR.
   - For the portfolio of 100 shares of AMZN stock, compute 5%-quantile Expected Shortfall (aka Average VaR or Conditional VaR).
   - Begin simulation of 3 stocks (AMZN, GOOG, and AAPL).
