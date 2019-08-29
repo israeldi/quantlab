@@ -105,11 +105,9 @@ Visit [Website Tutorial](../web_kit/) from Quant Lab.
 1. Company Reviews
 2. Vetting companies, and reviewing a Handshake/job fair company
 3. Rstudio
-
 In order to enable LaTex in `.pdf` files:
   - Download [[MikTex (Windows Users)](https://miktex.org/download)]
   - Download [[MacTex (Mac Users)](http://www.tug.org/mactex/mactex-download.html)]
-
 Sample [Homeowrk](../files/Bootcamp/Stats500_Hw2.pdf) from Stats500. Create `Rmarkdown` file in Rstudio.
 4. **Interview Questions**
   - Warm-up: individually, solve [interview problem 1.9](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
