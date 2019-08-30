@@ -121,7 +121,7 @@ Sample [Homeowrk](../files/Bootcamp/Stats500_Hw2.pdf) from Stats500. Create `Rma
 
 ### Day 6 (3 hours)
 1. Apply to at least one company of your choice on Handshake
-2. VaR [[Notebook]()]
+2. VaR [[Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Bootcamp/Measuring%20Market%20Risk%20in%20Python.ipynb)]
 3. **Interview Questions**
   - Warm-up: individually, solve [interview problem 3.4](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
   - Warm-up: In informal teams, work on [interview problem 8.12 (37 racehorses)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
