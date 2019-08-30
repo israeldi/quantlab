@@ -121,13 +121,14 @@ Sample [Homeowrk](../files/Bootcamp/Stats500_Hw2.pdf) from Stats500. Create `Rma
 
 ### Day 6 (3 hours)
 1. Apply to at least one company of your choice on Handshake
-2. **Interview Questions**
+2. VaR [[Notebook]()]
+3. **Interview Questions**
   - Warm-up: individually, solve [interview problem 3.4](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
   - Warm-up: In informal teams, work on [interview problem 8.12 (37 racehorses)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
   - Warm-up: [individually, solve interview problem 1.7](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf). Compare your answer with others.
 4. Complete 3-stock simulation.
-3. Class discussion: Russell 3000 covariance matrix.
-4. Back to modeling market risk.
+5. Class discussion: Russell 3000 covariance matrix.
+6. Back to modeling market risk.
 
 **Part 1**
   - Simulation of 3 stocks (AMZN, GOOG, and AAPL) available for download from GitHub.
