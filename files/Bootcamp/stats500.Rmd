@@ -1,0 +1,66 @@
+---
+title: "Homework2"
+author: "Israel Diego"
+date: "8/29/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Part A (Maximum 2 pages). 
+The dataset uswages is drawn as a sample from the Current Population Survey in 1988.
+
+1. Fit a regression model with weekly wages as the response and years of education and experience as predictors. Present the output.
+
+```{r partA_p1, echo=TRUE}
+# install.packages('faraway')
+library(faraway)
+data(uswages)
+
+uswages = uswages[uswages$exper >=0,]
+
+fit = lm(formula= wage ~ educ + exper, data= uswages)
+hist(fit$residuals)
+
+summary(fit)
+```
+
+2. What percentage of variation in the response is explained by these predictors? (Percentage variance explained is the same as coefficient of determination).
+
+```{r partA_p2, echo=FALSE}
+summary(fit)$adj.r.squared
+```
+
+3. Which observation has the largest (positive) residual? Give the case number.
+
+```{r partA_p3, include=FALSE}
+max_residual = which.max(fit$residuals)
+fit$residuals[max_residual]
+```
+
+The index number occurs at 15387 and the residual value is 7249.174
+
+4. Compute the mean and median of the residuals. Explain what the difference between the mean and the median indicates.
+
+```{r partA_p4, echo=TRUE, message=FALSE, warning=FALSE}
+mean(fit$residuals)
+median(fit$residuals)
+```
+
+5. For two people with the same education and one year difference in experience, what would be the difference in predicted weekly wages?
+
+The difference in weekly wages is the coefficient of `exper` which is 9.3287.
+
+6. Compute the correlation of the residuals with the fitted values. Plot residuals against fitted values. Explain the value of this correlation using the geometric (projection) interpretation of least squares.
+
+```{r partA_p6, echo=FALSE}
+cor(fit$fitted.values, fit$residuals)
+plot(fit$fitted.values, fit$residuals, pch=16, cex= 1, col= "blue",
+     main="Residuals Plotted against Fitted Values",
+     xlab = "fitted",
+     ylab = "residual")
+
+```
+
