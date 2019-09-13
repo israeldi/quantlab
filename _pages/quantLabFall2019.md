@@ -20,4 +20,4 @@ For Fall 2019, we will meet on Fridays, 10-11:20am in 142 Lorch Hall.
 2. [Market report](../files/Market Reports/Market Update 9.13.19.pptx)
 
 3. **Financial Data Structures**:
-  - [Notebook]()
+  - [Notebook]() [Python Functions](../files/Friday Workshops/ml_functions.py)
