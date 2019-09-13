@@ -8,26 +8,17 @@ toc: true
 sidebar:
     nav: "docs"
 ---
-For Fall 2019, we will meet on Fridays, 10-11:20am in 110 Weiser Hall.
+For Fall 2019, we will meet on Fridays, 10-11:20am in 142 Lorch Hall.
 
 ### Meeting agenda
 
-### Day 1
+### 2019-09-13
+1. **Quant Interview Questions**
+- Player *M* has \$1 and player *N* has \$2. Each game gives the winner \$1 from the
+other. As a better player, *M* wins $2/3$ of the games. They play until one of them is bankrupt. What is the probability that *M* wins?
+- Two players bet on roll(s) of the total of two standard six-face dice. Player *A* bets that a sum of 12 will occur first. Player *B* bets that two consecutive $7$s will occur first. The players keep rolling the dice and record the sums until one player wins. What is the probability that *A* will win?
+ 
+2. [Market report](../files/Market Reports/Market Update 9.13.19.pptx)
 
-### Day 2
-
-### Day 3
-
-### Day 4
-
-### Day 5
-
-### Day 6
-
-### Day 7
-
-### Day 8
-
-### Day 9
-
-### Day 10
+3. **Financial Data Structures**:
+  - [Notebook]()
