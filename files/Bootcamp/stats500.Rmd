@@ -41,7 +41,7 @@ fit$residuals[max_residual]
 ```
 
 The index number occurs at 15387 and the residual value is 7249.174
-
+\newpage
 4. Compute the mean and median of the residuals. Explain what the difference between the mean and the median indicates.
 
 ```{r partA_p4, echo=TRUE, message=FALSE, warning=FALSE}
