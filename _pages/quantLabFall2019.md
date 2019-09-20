@@ -12,6 +12,16 @@ For Fall 2019, we will meet on Fridays, 10-11:20am in 142 Lorch Hall.
 
 ### Meeting agenda
 
+### 2019-09-20
+1. **Quant Interview Questions**
+  - Warm-up: In informal teams, work on [interview problem 3.4](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
+  
+2. [Market report](../files/Market Reports/Market Update 9.19.19.pptx)
+
+3. **Financial Data Structures**:
+  - [Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/2_financial_data_structures.ipynb) [Python Functions](../files/Friday Workshop/ml_functions.py)
+
+
 ### 2019-09-13
 1. **Quant Interview Questions**
 - Player *M* has 1 dollar and player *N* has 2 dollars. Each game gives the winner 1 dollar from the other. As a better player, *M* wins $2/3$ of the games. They play until one of them is bankrupt. What is the probability that *M* wins?
