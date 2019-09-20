@@ -19,7 +19,7 @@ For Fall 2019, we will meet on Fridays, 10-11:20am in 142 Lorch Hall.
 2. [Market report](../files/Market Reports/Market Update 9.19.19.pptx)
 
 3. **Financial Data Structures**:
-  - [Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/2_financial_data_structures.ipynb) [Python Functions](../files/Friday Workshop/ml_functions.py)
+  - [Project Euler problem 50](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/projecteuler-50.ipynb) 
 
 
 ### 2019-09-13
