@@ -20,7 +20,7 @@ For Fall 2019, we will meet on Fridays, 10-11:20am in 142 Lorch Hall.
 
 3. **Python**:
   - Practice [List Comprehensions](https://www.learnpython.org/en/List_Comprehensions)
-  - [Project Euler problem 50](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/projecteuler-10_50.ipynb) 
+  - [Project Euler problem 10 and 50](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/projecteuler-10_50.ipynb) 
 
 
 ### 2019-09-13
