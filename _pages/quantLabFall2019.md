@@ -16,7 +16,7 @@ For Fall 2019, we will meet on Fridays, 10-11:20am in 142 Lorch Hall.
 1. **Quant Interview Questions**
   - Warm-up: In informal teams, work on [interview problem 3.4](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf).
   
-2. [Market report](../files/Market Reports/Market Update 9.19.19.pptx)
+2. [Market report](https://drive.google.com/open?id=1JqJYgr9nvOzBhqCGEzJxZbX05U-jGJaL)
 
 3. **Python**:
   - Practice [List Comprehensions](https://www.learnpython.org/en/List_Comprehensions)
