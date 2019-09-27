@@ -21,7 +21,7 @@ Link to Market Report [Sign-up Sheet](../files/Agenda Signup/Quant Lab Sign-up S
 2. [Market report](https://drive.google.com/open?id=14as8RbguRpPInalCIFvdgqcyVydhWrkA)
 
 3. **Python**:
-  - Pandas [Notebook]()
+  - Pandas [Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/3_pandas_finance.ipynb)
   - [Solution]()
 
 ### 2019-09-20
