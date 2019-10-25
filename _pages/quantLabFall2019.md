@@ -13,6 +13,13 @@ Link to Market Report [Sign-up Sheet](https://drive.google.com/open?id=16_e3mBSm
 
 ### Meeting agenda
 
+### 2019-10-25
+1. **Quant Interview Questions**
+  - Calculate value of barrier option for 3-period binomial model such that $u = 0.1, d = -0.1, r = 0.05, K = 90, B = 100, S_0 = 100$ with payoff: $(S_T - K) * I(S_T < B)$. 
+  - Here is a simple game. You get to toss a fair coin now. If it is heads, you get seven dollars 18 months from now. If it is tails, you lose two dollars immediately. The one-year interest rate is 12% per annum. The two-year interest rate is 18% per annum. How much are you prepared to pay to play this game?
+2. **Python**:
+  - CVA [Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/3_pandas_finance.ipynb)
+
 ### 2019-09-27
 1. **Quant Interview Questions**
   - Calculate value of barrier option for 3-period binomial model such that $u = 0.1, d = -0.1, r = 0.05, K = 90, B = 100, S_0 = 100$ with payoff: $(S_T - K) * I(S_T < B)$. 
