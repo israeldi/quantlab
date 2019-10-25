@@ -15,10 +15,22 @@ Link to Market Report [Sign-up Sheet](https://drive.google.com/open?id=16_e3mBSm
 
 ### 2019-10-25
 1. **Quant Interview Questions**
-  - Calculate value of barrier option for 3-period binomial model such that $u = 0.1, d = -0.1, r = 0.05, K = 90, B = 100, S_0 = 100$ with payoff: $(S_T - K) * I(S_T < B)$. 
-  - Here is a simple game. You get to toss a fair coin now. If it is heads, you get seven dollars 18 months from now. If it is tails, you lose two dollars immediately. The one-year interest rate is 12% per annum. The two-year interest rate is 18% per annum. How much are you prepared to pay to play this game?
+  - You are presented with two empty jars and 100 marbles
+on a table. There are 50 white marbles and 50 black marbles. You are
+to put all 100 of the marbles into the two jars in any way you choose. I
+will then blindfold you. I will shake the jars up to ensure good mixing,
+and I will rearrange the placing of the jars on the table so that you do
+not know which one is which. You may then request either the "lefthand"
+or the "right-hand" jar. You get to choose exactly one jar, you
+are allowed to withdraw at most one marble from the jar, and you do
+not get a second chance if you are unhappy with your choice.
+How many of each colour marble should you place in each jar to maximize
+the probability that your blindfolded random draw obtains a white
+marble?
+  - How many 0s at end of 100!  
+  - 3m + 7n = 10000, find all such pairs of positive integers
 2. **Python**:
-  - CVA [Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/3_pandas_finance.ipynb)
+  - CVA [Notebook](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/10_25_19/risk.ipynb)
 
 ### 2019-09-27
 1. **Quant Interview Questions**
