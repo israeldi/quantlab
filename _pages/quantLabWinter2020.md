@@ -16,7 +16,7 @@ Link to Market Report [Sign-up Sheet](https://drive.google.com/open?id=16_e3mBSm
 
 ### 2020-01-27
 1. **Quant Interview Questions**
-- Warm-up: individually, solve [interview problem 3.16 (the clock problem)](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf) which goes like this: 
+- Warm-up: individually, solve [interview problem 3.16](../files/quantTechnicalQuestions/quantTechnicalQuestions.pdf), which goes like this: 
 You have a bucket of unfair coins. Each coin has a probability of getting
 heads, $p$, which is uniformly distributed between zero and one. You pick a coin, and flip it 64 times, getting 48 heads. What is the expected value of $p$ for your coin?
  
