@@ -8,8 +8,6 @@ toc: true
 sidebar:
     nav: "docs"
 ---
-For Fall 2019, we will meet on Fridays, 10-11:20am in 142 Lorch Hall.
-Link to Market Report [Sign-up Sheet](https://drive.google.com/open?id=16_e3mBSmYeCeqY5shdFUJueLelYQh1oSRzuYfmUc2_Y)
 
 ### Meeting agenda
 

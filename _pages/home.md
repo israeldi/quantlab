@@ -13,8 +13,8 @@ feature_row:
   - image_path: assets/images/weiser.jpg
     alt: "placeholder image 1"
     title: "Quant Lab Agenda"
-    excerpt: "Fall 2019 Friday-Workshops."
-    url: "https://israeldi.github.io/quantlab/quantLabFall2019/"
+    excerpt: "Winter 2020 Monday-Workshops."
+    url: "https://israeldi.github.io/quantlab/quantLabWinter2020/"
   - image_path: /assets/images/job_search.jpg
     alt: "placeholder image 2"
     title: "Jobs and Internships"
