@@ -15,6 +15,13 @@ Link to Market Report [Sign-up Sheet](https://drive.google.com/open?id=16_e3mBSm
 ### Meeting agenda
 
 ### 2020-02-03
+1. Coding warmup: [Project Euler problem 81](https://projecteuler.net/problem=81). Does this look familiar?
+ 
+2. Let's build a simple tranched credit index. For more depth on tranched credit indices, see this [BIS article](https://www.bis.org/publ/qtrpdf/r_qt0503g.pdf) or this more entertaining [FT report](https://ftalphaville.ft.com/2012/05/16/1002861/recap-and-tranche-primer/) (requires free signup with Alphaville).
+
+
+
+### 2020-02-03
 1. **Quant Interview Questions**
 - Imagine an infinite chess board. Suppose knight begins at center of the board. In how many cases can he possibly end after 10 moves. You actually don't have to give an exact number but an estimate is fine.
 - Warm-up: Describe [heapsort](https://www.youtube.com/watch?v=t0Cq6tVNRBA), [quicksort](https://www.youtube.com/watch?v=SLauY6PpjW4), [breadth first search and topological sort](https://www.youtube.com/watch?v=zaBhtODEL0w).
