@@ -7,10 +7,11 @@ import matplotlib.pyplot as plt
 # Constants
 EQUITY_INDEX_CUTOFFS = [0, 0.03, 0.07, 0.1, 0.15, 0.3, 1 ]
 # Parameters
-n = 1000 #names in credit index
-rho = 0.1
-num_sims = 1000
+n = 1000 # names in credit index
+rho = 0.1 # correlation of equity returns
+num_sims = 1000 
 prob_default = 0.25
+
 # For equity tranche 0-20%, mezzanine 20%-80%:
 # tranche_cutoffs = [0, 0.2, 1 ]
 tranche_cutoffs = EQUITY_INDEX_CUTOFFS
@@ -20,8 +21,10 @@ tranche_to_watch = 4 #1 is equity, 2 mezz, etc
 z_score_of_default = norm.ppf(prob_default)
 beta = rho**0.5
 alpha = (1 -rho)**0.5
-max_defaults_protected = int(round(n * tranche_cutoffs[tranche_to_watch-1]))
+
+# Look at 4th tranche
 wiped_out_defaults = int(round(n * tranche_cutoffs[tranche_to_watch]))
+max_defaults_protected = int(round(n * tranche_cutoffs[tranche_to_watch-1]))
 names_in_tranche = wiped_out_defaults - max_defaults_protected
 
 # run simulation
