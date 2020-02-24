@@ -17,7 +17,7 @@ Link to Market Report [Sign-up Sheet](https://drive.google.com/open?id=16_e3mBSm
 ### 2020-02-03
 1. Coding warmup: [Project Euler problem 81](https://projecteuler.net/problem=81). Does this look familiar?
  
-2. Let's build a simple tranched credit index. For more depth on tranched credit indices, see this [BIS article](https://www.bis.org/publ/qtrpdf/r_qt0503g.pdf) or this more entertaining [FT report](https://ftalphaville.ft.com/2012/05/16/1002861/recap-and-tranche-primer/) (requires free signup with Alphaville). Get starter [code](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/2_24_20/Credit_Tranches.ipynb).
+2. Let's build a simple tranched credit index. For more depth on tranched credit indices, see this [BIS article](https://www.bis.org/publ/qtrpdf/r_qt0503g.pdf) or this more entertaining [FT report](https://ftalphaville.ft.com/2012/05/16/1002861/recap-and-tranche-primer/) (requires free signup with Alphaville). Get starter [code](https://nbviewer.jupyter.org/github/israeldi/quantlab/blob/master/files/Friday%20Workshop/2_24_20/Credit_Tranches.ipynb). [sol](https://github.com/israeldi/quantlab/blob/master/files/Friday%20Workshop/2_24_20/Credit_Tranches_solution.ipynb)
 
 
 
